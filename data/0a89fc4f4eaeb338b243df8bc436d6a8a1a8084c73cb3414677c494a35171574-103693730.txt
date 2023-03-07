@@ -1,5 +1,6 @@
 beard,
 blonde hair,
+category:ine,
 facial hair,
 food,
 jewelry,

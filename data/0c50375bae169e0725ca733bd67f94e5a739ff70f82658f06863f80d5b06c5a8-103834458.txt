@@ -2,6 +2,7 @@
 animal,
 brown eyes,
 cat,
+category:ine,
 fingers together,
 freckles,
 hood,
