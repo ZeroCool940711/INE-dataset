@@ -2,6 +2,7 @@
 abs,
 breathing fire,
 burning,
+category:ine,
 embers,
 explosion,
 fire,

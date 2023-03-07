@@ -1,5 +1,6 @@
 building,
 burning,
+category:ine,
 city,
 cloud,
 destruction,

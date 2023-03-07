@@ -1,6 +1,7 @@
 1girl,
 armor,
 castle,
+category:ine,
 cloud,
 full moon,
 gauntlets,
