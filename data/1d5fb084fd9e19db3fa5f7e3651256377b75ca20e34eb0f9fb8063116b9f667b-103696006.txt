@@ -2,6 +2,7 @@
 black shirt,
 blonde hair,
 blue eyes,
+category:ine,
 closed mouth,
 explosion,
 fingerless gloves,

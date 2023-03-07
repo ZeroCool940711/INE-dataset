@@ -2,6 +2,7 @@
 beard,
 belt,
 boots,
+category:ine,
 facial hair,
 full body,
 jacket,

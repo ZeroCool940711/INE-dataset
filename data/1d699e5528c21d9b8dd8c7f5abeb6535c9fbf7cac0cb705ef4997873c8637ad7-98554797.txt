@@ -2,6 +2,7 @@
 2girls,
 bench,
 bush,
+category:ine,
 day,
 forest,
 grass,

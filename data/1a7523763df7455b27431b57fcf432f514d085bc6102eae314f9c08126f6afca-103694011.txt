@@ -1,5 +1,6 @@
 armor,
 battle,
+category:ine,
 facing another,
 facing away,
 gauntlets,

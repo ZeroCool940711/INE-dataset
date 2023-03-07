@@ -2,6 +2,7 @@
 artist name,
 ashes,
 brown hair,
+category:ine,
 creator:fernanda suarez,
 dark skin,
 dark-skinned female,
