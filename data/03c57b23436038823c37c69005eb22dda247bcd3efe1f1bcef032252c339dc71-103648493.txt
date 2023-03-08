@@ -2,6 +2,7 @@
 black hair,
 blurry,
 building,
+category:ine,
 city,
 cityscape,
 cloud,

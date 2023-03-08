@@ -2,6 +2,7 @@
 baseball cap,
 belt,
 bracelet,
+category:ine,
 character:akali,
 cuffs,
 fireworks,

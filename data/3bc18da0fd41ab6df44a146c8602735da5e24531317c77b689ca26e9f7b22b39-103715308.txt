@@ -1,4 +1,5 @@
 burning,
+category:ine,
 cloud,
 explosion,
 fire,

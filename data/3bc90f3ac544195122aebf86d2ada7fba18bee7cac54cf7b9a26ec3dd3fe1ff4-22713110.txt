@@ -1,6 +1,7 @@
 artwork,
 bare tree,
 branch,
+category:ine,
 coat,
 creator:jakub rozalski,
 creature,

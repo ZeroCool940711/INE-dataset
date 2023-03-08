@@ -1,5 +1,6 @@
 armor,
 axe,
+category:ine,
 full body,
 helmet,
 holding,

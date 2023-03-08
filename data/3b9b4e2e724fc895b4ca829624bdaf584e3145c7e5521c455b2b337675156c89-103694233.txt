@@ -1,5 +1,6 @@
 aircraft,
 battleship,
+category:ine,
 cloud,
 explosion,
 fire,
