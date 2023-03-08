@@ -2,6 +2,7 @@
 aurora,
 black hair,
 bracelet,
+category:ine,
 closed eyes,
 constellation,
 couple,

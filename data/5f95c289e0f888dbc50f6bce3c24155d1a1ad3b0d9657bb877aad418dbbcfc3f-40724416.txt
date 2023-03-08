@@ -1,5 +1,6 @@
 art,
 arthur morgan,
+category:ine,
 cowboys,
 digital,
 duel,
