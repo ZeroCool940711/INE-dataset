@@ -2,6 +2,7 @@
 armor,
 boots,
 breasts,
+category:ine,
 creator:jun rao,
 full body,
 gauntlets,

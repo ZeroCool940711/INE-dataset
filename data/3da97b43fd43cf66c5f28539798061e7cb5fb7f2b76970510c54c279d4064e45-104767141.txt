@@ -1,6 +1,7 @@
 6+boys,
 assault rifle,
 battle,
+category:ine,
 caterpillar tracks,
 explosion,
 fire,
