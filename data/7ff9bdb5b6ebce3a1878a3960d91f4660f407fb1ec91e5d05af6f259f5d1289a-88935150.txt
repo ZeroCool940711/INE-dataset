@@ -1,4 +1,5 @@
 aladdin,
+category:ine,
 creator:serafleur,
 digital art,
 digital painting,
