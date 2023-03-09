@@ -2,6 +2,7 @@
 bag,
 book,
 bottle,
+category:ine,
 earrings,
 elbow gloves,
 hat,
