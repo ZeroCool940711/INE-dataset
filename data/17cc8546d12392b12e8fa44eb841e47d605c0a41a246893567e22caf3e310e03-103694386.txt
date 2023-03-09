@@ -1,6 +1,7 @@
 1girl,
 brown eyes,
 brown hair,
+category:ine,
 earrings,
 holding sword,
 jewelry,

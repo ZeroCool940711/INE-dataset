@@ -1,6 +1,7 @@
 ball,
 black background,
 black border,
+category:ine,
 clock,
 earth (planet),
 full moon,

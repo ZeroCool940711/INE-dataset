@@ -2,6 +2,7 @@
 boots,
 bug,
 butterfly,
+category:ine,
 cloud,
 day,
 dress,

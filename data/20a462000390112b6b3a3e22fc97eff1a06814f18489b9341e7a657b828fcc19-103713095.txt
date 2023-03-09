@@ -2,6 +2,7 @@
 beard,
 black background,
 blue eyes,
+category:ine,
 chain,
 earrings,
 facial hair,

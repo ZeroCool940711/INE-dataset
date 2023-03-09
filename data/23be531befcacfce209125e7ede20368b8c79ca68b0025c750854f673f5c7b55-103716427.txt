@@ -1,6 +1,7 @@
 aircraft,
 assault rifle,
 black border,
+category:ine,
 cloud,
 cloudy sky,
 dusk,
