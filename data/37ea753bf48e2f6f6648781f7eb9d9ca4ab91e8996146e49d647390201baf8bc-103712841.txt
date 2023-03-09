@@ -1,5 +1,6 @@
 armor,
 bush,
+category:ine,
 field,
 forest,
 grass,

@@ -2,6 +2,7 @@
 1other,
 bird,
 building,
+category:ine,
 cloud,
 cloudy sky,
 day,
