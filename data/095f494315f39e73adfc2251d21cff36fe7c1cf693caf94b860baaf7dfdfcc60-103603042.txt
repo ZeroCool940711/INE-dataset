@@ -1,6 +1,7 @@
 1girl,
 blonde hair,
 blue eyes,
+category:ine,
 earrings,
 face,
 facepaint,
