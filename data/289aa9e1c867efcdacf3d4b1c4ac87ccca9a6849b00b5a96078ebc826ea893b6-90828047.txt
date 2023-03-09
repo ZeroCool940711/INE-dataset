@@ -1,5 +1,6 @@
 1girl,
 archer,
+category:ine,
 fire,
 full moon,
 jewelry,

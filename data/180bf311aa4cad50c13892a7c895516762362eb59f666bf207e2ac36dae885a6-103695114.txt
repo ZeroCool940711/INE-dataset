@@ -1,3 +1,4 @@
+category:ine,
 day,
 fire,
 forest,

@@ -1,6 +1,7 @@
 1girl,
 brick wall,
 building,
+category:ine,
 chain-link fence,
 fence,
 gun,

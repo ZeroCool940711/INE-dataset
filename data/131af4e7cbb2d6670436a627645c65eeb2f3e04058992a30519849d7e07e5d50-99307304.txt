@@ -1,4 +1,5 @@
 blue theme,
+category:ine,
 cloud,
 cloudy sky,
 crescent moon,

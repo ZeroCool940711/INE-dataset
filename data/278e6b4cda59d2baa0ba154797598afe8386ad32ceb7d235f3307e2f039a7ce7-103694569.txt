@@ -1,5 +1,6 @@
 beach,
 burning,
+category:ine,
 cloud,
 cloudy sky,
 evening,

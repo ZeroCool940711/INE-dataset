@@ -1,6 +1,7 @@
 1boy,
 armor,
 belt,
+category:ine,
 forest,
 gauntlets,
 hood,

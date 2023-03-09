@@ -1,6 +1,7 @@
 1boy,
 beard,
 boots,
+category:ine,
 facial hair,
 fur trim,
 hat,

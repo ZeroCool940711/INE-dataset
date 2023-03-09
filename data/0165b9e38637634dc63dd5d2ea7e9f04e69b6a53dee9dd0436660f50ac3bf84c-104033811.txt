@@ -1,5 +1,6 @@
 bare tree,
 bush,
+category:ine,
 cloud,
 cloudy sky,
 dark,
