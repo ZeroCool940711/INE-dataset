@@ -1,6 +1,7 @@
 1boy,
 artist name,
 beard,
+category:ine,
 constellation,
 earth (planet),
 facial hair,

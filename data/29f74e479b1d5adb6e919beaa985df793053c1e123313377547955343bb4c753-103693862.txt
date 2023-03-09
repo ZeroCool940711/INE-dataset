@@ -2,6 +2,7 @@
 armor,
 blue skin,
 cape,
+category:ine,
 colored skin,
 gauntlets,
 glowing,

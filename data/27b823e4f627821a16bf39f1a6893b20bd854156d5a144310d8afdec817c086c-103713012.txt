@@ -3,6 +3,7 @@
 animal ears,
 bamboo,
 cafe,
+category:ine,
 chair,
 couch,
 cup,

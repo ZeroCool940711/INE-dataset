@@ -1,6 +1,7 @@
 autumn,
 autumn leaves,
 bridge,
+category:ine,
 city,
 cloud,
 day,

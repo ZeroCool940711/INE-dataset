@@ -2,6 +2,7 @@
 animal,
 barefoot,
 brown hair,
+category:ine,
 closed eyes,
 dandelion,
 dog,

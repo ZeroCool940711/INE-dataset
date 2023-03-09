@@ -1,6 +1,7 @@
 1other,
 arch,
 castle,
+category:ine,
 city,
 cloud,
 crescent moon,

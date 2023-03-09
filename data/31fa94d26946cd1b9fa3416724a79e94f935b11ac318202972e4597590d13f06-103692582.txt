@@ -3,6 +3,7 @@
 barefoot,
 beard,
 brown hair,
+category:ine,
 dark skin,
 dark-skinned female,
 facepaint,
