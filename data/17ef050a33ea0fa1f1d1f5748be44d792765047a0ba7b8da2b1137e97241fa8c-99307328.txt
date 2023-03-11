@@ -1,6 +1,7 @@
 aircraft,
 airplane,
 beach,
+category:ine,
 cloud,
 cloudy sky,
 flying,

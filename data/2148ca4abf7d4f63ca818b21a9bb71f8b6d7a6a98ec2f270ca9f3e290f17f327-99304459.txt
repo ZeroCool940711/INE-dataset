@@ -2,6 +2,7 @@
 american flag,
 astronaut,
 aurora,
+category:ine,
 city lights,
 constellation,
 dust,

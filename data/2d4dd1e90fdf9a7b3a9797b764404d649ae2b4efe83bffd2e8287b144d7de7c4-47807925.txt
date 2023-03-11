@@ -1,6 +1,7 @@
 1girl,
 arm support,
 black background,
+category:ine,
 greyscale,
 hair bun,
 hood,

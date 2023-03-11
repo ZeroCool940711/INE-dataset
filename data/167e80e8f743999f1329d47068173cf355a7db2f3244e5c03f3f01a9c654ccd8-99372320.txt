@@ -1,5 +1,6 @@
 air bubble,
 bubble,
+category:ine,
 character name,
 english text,
 footprints,

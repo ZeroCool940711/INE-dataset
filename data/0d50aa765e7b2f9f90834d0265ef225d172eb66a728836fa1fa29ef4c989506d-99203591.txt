@@ -1,5 +1,6 @@
 beach,
 black border,
+category:ine,
 cave,
 cloud,
 cloudy sky,

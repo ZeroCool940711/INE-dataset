@@ -1,6 +1,7 @@
 1other,
 architecture,
 building,
+category:ine,
 city,
 cloud,
 cloudy sky,

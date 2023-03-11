@@ -1,6 +1,7 @@
 bamboo,
 burning,
 campfire,
+category:ine,
 character:charmander,
 explosion,
 fire,

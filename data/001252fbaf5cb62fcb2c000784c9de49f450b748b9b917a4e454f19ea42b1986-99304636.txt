@@ -1,6 +1,7 @@
 1boy,
 beard,
 boots,
+category:ine,
 character sheet,
 coat,
 concept art,

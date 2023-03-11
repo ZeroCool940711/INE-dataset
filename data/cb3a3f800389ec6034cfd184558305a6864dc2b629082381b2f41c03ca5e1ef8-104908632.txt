@@ -2,6 +2,7 @@
 arrow (projectile),
 beard,
 brown eyes,
+category:ine,
 crossed arms,
 earrings,
 facial hair,

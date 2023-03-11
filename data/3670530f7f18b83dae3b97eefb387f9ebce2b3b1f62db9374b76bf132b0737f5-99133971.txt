@@ -2,6 +2,7 @@
 blurry,
 blurry foreground,
 book,
+category:ine,
 depth of field,
 jewelry,
 male focus,

@@ -1,6 +1,7 @@
 battle,
 breathing fire,
 burning,
+category:ine,
 city,
 claws,
 cloud,

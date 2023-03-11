@@ -1,6 +1,7 @@
 1boy,
 armor,
 axe,
+category:ine,
 fake horns,
 grass,
 helmet,

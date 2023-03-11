@@ -1,5 +1,6 @@
 1other,
 armor,
+category:ine,
 fake horns,
 full body,
 gauntlets,

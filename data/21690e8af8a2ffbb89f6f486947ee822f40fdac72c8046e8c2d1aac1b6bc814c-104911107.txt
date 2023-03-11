@@ -1,6 +1,7 @@
 aerial fireworks,
 astronaut,
 aurora,
+category:ine,
 city lights,
 cloud,
 constellation,

@@ -2,6 +2,7 @@
 bald,
 beard,
 book,
+category:ine,
 character:ashe,
 character:ashe (overwatch),
 creator:nesskain,

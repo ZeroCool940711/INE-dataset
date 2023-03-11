@@ -1,6 +1,7 @@
 1girl,
 bangs,
 black hair,
+category:ine,
 character:harukawa maki,
 floating hair,
 long hair,

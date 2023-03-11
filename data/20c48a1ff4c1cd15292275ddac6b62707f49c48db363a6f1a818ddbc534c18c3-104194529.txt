@@ -2,6 +2,7 @@
 battle,
 breathing fire,
 burning,
+category:ine,
 explosion,
 fire,
 flame,

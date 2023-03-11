@@ -1,5 +1,6 @@
 1girl,
 bush,
+category:ine,
 energy ball,
 fantasy,
 fire,

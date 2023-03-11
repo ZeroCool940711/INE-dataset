@@ -1,6 +1,7 @@
 aircraft,
 airplane,
 battle,
+category:ine,
 condensation trail,
 fighter jet,
 flying,

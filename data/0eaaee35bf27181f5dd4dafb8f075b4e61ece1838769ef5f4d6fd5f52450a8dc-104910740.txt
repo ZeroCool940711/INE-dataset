@@ -1,6 +1,7 @@
 1girl,
 assault rifle,
 boots,
+category:ine,
 cosplay,
 finger on trigger,
 fingerless gloves,

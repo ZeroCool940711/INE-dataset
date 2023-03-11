@@ -2,6 +2,7 @@
 armor,
 artist name,
 breastplate,
+category:ine,
 full armor,
 gauntlets,
 gradient,

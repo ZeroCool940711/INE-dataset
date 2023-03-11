@@ -1,5 +1,6 @@
 aircraft,
 airplane,
+category:ine,
 cockpit,
 fighter jet,
 flying,

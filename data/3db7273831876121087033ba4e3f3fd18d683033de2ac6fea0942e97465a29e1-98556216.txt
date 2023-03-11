@@ -1,6 +1,7 @@
 1girl,
 arm cannon,
 armor,
+category:ine,
 desert,
 dirty,
 glowing,

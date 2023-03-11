@@ -1,6 +1,7 @@
 aircraft,
 airplane,
 bird,
+category:ine,
 city,
 cloud,
 cloudy sky,

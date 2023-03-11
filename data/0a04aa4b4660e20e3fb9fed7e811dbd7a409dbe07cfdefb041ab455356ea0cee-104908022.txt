@@ -2,6 +2,7 @@
 animal,
 bird,
 black hair,
+category:ine,
 crow,
 dinosaur,
 dragon,

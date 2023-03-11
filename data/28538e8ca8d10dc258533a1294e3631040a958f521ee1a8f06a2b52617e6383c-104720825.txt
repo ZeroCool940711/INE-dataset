@@ -2,6 +2,7 @@
 black hair,
 building,
 castle,
+category:ine,
 city,
 cityscape,
 cyberpunk,

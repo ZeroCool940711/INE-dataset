@@ -1,6 +1,7 @@
 armor,
 breastplate,
 cape,
+category:ine,
 fire,
 full armor,
 gauntlets,

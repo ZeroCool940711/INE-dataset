@@ -1,6 +1,7 @@
 aircraft,
 airplane,
 battle,
+category:ine,
 cloud,
 gun,
 helicopter,

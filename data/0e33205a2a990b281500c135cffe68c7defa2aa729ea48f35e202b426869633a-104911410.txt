@@ -1,4 +1,5 @@
 aircraft,
+category:ine,
 cloud,
 desert,
 earth (planet),

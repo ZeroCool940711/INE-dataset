@@ -2,6 +2,7 @@
 armor,
 assault rifle,
 bullpup,
+category:ine,
 full body,
 gun,
 handgun,

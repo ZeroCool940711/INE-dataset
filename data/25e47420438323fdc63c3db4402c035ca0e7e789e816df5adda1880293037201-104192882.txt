@@ -1,6 +1,7 @@
 1boy,
 building,
 cape,
+category:ine,
 city,
 cloud,
 cloudy sky,

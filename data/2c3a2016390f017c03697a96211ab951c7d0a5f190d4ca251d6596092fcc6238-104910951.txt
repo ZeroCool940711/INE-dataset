@@ -1,6 +1,7 @@
 artist name,
 bridge,
 building,
+category:ine,
 city,
 cloud,
 cloudy sky,

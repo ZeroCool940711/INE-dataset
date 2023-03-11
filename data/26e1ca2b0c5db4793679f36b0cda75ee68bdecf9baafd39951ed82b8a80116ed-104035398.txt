@@ -2,6 +2,7 @@
 aerial fireworks,
 astronaut,
 aurora,
+category:ine,
 christmas,
 christmas lights,
 christmas tree,

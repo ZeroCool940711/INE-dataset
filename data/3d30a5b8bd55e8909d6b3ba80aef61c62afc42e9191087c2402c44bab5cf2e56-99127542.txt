@@ -2,6 +2,7 @@
 blue eyes,
 blue skin,
 braid,
+category:ine,
 colored skin,
 glowing,
 grey skin,

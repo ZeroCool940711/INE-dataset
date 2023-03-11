@@ -1,6 +1,7 @@
 1girl,
 armor,
 axe,
+category:ine,
 full armor,
 gauntlets,
 gradient background,

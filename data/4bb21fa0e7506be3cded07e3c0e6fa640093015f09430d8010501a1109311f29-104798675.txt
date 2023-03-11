@@ -2,6 +2,7 @@
 armor,
 beard,
 bird,
+category:ine,
 cloud,
 cloudy sky,
 faceless male,

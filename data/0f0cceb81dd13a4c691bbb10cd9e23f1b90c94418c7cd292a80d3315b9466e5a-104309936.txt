@@ -1,6 +1,7 @@
 bamboo,
 bare tree,
 branch,
+category:ine,
 flower,
 gradient,
 gradient background,

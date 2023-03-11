@@ -1,4 +1,5 @@
 cat tail,
+category:ine,
 claws,
 cow tail,
 demon tail,

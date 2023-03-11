@@ -2,6 +2,7 @@
 bird,
 black hair,
 bush,
+category:ine,
 day,
 deer,
 forest,

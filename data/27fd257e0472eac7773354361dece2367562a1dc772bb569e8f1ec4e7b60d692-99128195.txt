@@ -1,5 +1,6 @@
 1boy,
 black background,
+category:ine,
 collarbone,
 crown,
 facing viewer,

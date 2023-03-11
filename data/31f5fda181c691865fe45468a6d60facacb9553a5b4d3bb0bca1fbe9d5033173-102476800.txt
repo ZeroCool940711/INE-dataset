@@ -1,8 +1,0 @@
-animal,
-english text,
-no humans,
-rating:safe,
-realistic,
-subreddit:imaginaryhorrors,
-title:baby shark by russell marks,
-uploader:o-shi,

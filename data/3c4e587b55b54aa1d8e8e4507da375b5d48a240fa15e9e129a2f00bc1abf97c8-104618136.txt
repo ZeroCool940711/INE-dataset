@@ -2,6 +2,7 @@
 abs,
 arrow (projectile),
 bow (weapon),
+category:ine,
 cloud,
 cloudy sky,
 holding,

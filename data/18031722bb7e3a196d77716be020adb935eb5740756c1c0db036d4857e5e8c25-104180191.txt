@@ -1,6 +1,7 @@
 aurora,
 beach,
 campfire,
+category:ine,
 city,
 city lights,
 cloud,

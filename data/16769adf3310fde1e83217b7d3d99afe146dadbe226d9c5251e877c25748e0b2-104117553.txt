@@ -3,6 +3,7 @@
 black hair,
 blonde hair,
 bottle,
+category:ine,
 closed eyes,
 cup,
 earrings,

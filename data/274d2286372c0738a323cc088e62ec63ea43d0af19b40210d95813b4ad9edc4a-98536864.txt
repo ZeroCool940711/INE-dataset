@@ -1,4 +1,5 @@
 alcohol,
+category:ine,
 chalkboard,
 cup,
 drinking glass,

@@ -2,6 +2,7 @@
 artist name,
 aurora,
 bracelet,
+category:ine,
 constellation,
 dagger,
 earrings,

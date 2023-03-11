@@ -1,4 +1,5 @@
 burning,
+category:ine,
 cloud,
 cloudy sky,
 explosion,

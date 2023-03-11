@@ -2,6 +2,7 @@
 aurora,
 bare shoulders,
 blonde hair,
+category:ine,
 constellation,
 crescent,
 crescent facial mark,

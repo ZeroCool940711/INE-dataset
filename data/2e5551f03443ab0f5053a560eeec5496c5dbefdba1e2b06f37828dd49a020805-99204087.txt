@@ -1,5 +1,6 @@
 burning,
 campfire,
+category:ine,
 city,
 cloud,
 cloudy sky,

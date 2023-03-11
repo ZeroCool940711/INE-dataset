@@ -2,6 +2,7 @@
 breathing fire,
 burning,
 campfire,
+category:ine,
 constellation,
 earth (planet),
 embers,

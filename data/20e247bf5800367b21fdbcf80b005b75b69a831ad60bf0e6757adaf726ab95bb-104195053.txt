@@ -1,6 +1,7 @@
 6+boys,
 aircraft,
 bow (weapon),
+category:ine,
 cloud,
 flag,
 hat,

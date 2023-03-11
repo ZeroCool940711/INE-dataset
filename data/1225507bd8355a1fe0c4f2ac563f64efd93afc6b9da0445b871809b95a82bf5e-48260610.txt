@@ -1,6 +1,7 @@
 1girl,
 assault rifle,
 building,
+category:ine,
 city,
 creator:tarmo juhola,
 creator:tarmojuhola,

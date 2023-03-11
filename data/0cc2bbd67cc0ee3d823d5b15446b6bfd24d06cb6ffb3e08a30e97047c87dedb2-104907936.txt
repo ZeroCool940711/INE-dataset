@@ -1,6 +1,7 @@
 1girl,
 blue eyes,
 book,
+category:ine,
 dark elf,
 elf,
 facial mark,

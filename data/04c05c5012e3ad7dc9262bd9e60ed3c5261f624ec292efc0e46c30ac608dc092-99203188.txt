@@ -2,6 +2,7 @@
 armor,
 blue eyes,
 cape,
+category:ine,
 glowing,
 holding,
 holding weapon,

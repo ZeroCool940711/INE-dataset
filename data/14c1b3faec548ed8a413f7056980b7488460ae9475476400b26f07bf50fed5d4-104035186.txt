@@ -2,6 +2,7 @@
 animal,
 bird,
 bush,
+category:ine,
 dappled sunlight,
 day,
 deer,

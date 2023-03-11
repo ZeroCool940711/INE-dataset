@@ -1,6 +1,7 @@
 1girl,
 blue eyes,
 cape,
+category:ine,
 cloak,
 dress,
 holding,

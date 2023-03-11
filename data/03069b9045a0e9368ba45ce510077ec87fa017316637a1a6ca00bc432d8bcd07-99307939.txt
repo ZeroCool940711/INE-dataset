@@ -1,6 +1,7 @@
 aurora,
 bare tree,
 building,
+category:ine,
 christmas tree,
 city,
 city lights,

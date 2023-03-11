@@ -3,6 +3,7 @@
 black cape,
 blonde hair,
 cape,
+category:ine,
 cloak,
 dress,
 earrings,

@@ -1,6 +1,7 @@
 ascot,
 beard,
 black headwear,
+category:ine,
 character:hunter (bloodborne),
 coat,
 cowboy hat,

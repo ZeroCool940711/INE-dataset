@@ -1,6 +1,7 @@
 1boy,
 armor,
 boots,
+category:ine,
 full body,
 gun,
 helmet,

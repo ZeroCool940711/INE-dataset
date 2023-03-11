@@ -2,6 +2,7 @@
 6+boys,
 beard,
 boots,
+category:ine,
 facial hair,
 gloves,
 gun,

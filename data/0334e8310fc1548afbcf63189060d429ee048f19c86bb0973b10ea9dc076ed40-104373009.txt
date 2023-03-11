@@ -2,6 +2,7 @@
 6+girls,
 assault rifle,
 building,
+category:ine,
 city,
 city lights,
 cityscape,

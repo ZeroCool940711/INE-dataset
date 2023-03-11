@@ -1,6 +1,7 @@
 1boy,
 artist name,
 building,
+category:ine,
 energy sword,
 gloves,
 glowing,

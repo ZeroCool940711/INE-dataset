@@ -1,4 +1,5 @@
 armor,
+category:ine,
 character:samus aran,
 diffraction spikes,
 glint,

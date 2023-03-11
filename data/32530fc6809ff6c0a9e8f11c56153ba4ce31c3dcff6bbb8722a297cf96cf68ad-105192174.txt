@@ -2,6 +2,7 @@
 abs,
 blood,
 blood on face,
+category:ine,
 cuts,
 injury,
 jewelry,

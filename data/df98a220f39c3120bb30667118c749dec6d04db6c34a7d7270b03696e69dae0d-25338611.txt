@@ -1,5 +1,6 @@
 booru:hypnohub,
 breasts,
+category:ine,
 character:kaa,
 character:twilight_sparkle,
 coils,

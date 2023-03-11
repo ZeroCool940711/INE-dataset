@@ -1,5 +1,6 @@
 bird,
 black hair,
+category:ine,
 feathers,
 hat,
 hat feather,

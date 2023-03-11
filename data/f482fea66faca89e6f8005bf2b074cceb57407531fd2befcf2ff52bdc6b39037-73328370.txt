@@ -1,4 +1,5 @@
 carnage,
+category:ine,
 comic,
 comic artist,
 comic book,

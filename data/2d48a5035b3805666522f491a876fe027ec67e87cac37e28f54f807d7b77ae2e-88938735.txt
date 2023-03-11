@@ -2,6 +2,7 @@
 artist name,
 blue eyes,
 blurry,
+category:ine,
 cherry blossoms,
 creator:serafleur,
 digital art,

@@ -2,6 +2,7 @@
 bare tree,
 branch,
 cape,
+category:ine,
 elf,
 forest,
 in tree,
