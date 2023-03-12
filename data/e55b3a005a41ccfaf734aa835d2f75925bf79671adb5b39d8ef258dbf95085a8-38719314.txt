@@ -1,6 +1,7 @@
 art,
 building,
 castle,
+category:ine,
 lake,
 landscape,
 medium:concept art,
