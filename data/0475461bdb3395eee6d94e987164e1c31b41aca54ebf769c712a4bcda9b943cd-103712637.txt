@@ -2,6 +2,7 @@
 beard,
 black border,
 bracelet,
+category:ine,
 facial hair,
 fire,
 flame,

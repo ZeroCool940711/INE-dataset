@@ -1,6 +1,7 @@
 1boy,
 artist name,
 barefoot,
+category:ine,
 elf,
 food,
 male focus,

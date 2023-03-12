@@ -1,5 +1,6 @@
 black border,
 border,
+category:ine,
 cloud,
 cloudy sky,
 horizon,
