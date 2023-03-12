@@ -2,6 +2,7 @@
 armor,
 brick floor,
 brick wall,
+category:ine,
 colored skin,
 crack,
 honeycomb (pattern),

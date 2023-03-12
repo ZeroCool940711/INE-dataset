@@ -2,6 +2,7 @@
 armor,
 beard,
 blonde hair,
+category:ine,
 facial hair,
 male focus,
 manly,

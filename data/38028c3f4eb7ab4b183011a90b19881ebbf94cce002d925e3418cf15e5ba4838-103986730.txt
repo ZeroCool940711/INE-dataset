@@ -1,6 +1,7 @@
 1boy,
 boots,
 breathing fire,
+category:ine,
 colored skin,
 embers,
 explosion,

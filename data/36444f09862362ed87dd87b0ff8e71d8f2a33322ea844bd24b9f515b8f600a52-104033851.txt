@@ -1,4 +1,5 @@
 blue,
+category:ine,
 cave,
 creator:jordangrimmer,
 facing away,

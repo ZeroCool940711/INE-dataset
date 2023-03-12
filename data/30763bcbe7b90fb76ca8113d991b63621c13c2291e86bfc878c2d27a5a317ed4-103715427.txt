@@ -1,6 +1,7 @@
 assault rifle,
 beam rifle,
 bullpup,
+category:ine,
 character name,
 energy gun,
 glowing,
