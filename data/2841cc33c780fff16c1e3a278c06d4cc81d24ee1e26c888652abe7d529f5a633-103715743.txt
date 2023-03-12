@@ -1,5 +1,6 @@
 armor,
 astronaut,
+category:ine,
 earth (planet),
 helmet,
 holding,

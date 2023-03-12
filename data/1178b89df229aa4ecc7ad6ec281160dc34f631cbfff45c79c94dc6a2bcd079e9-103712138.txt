@@ -1,5 +1,6 @@
 antlers,
 building,
+category:ine,
 cloud,
 crescent moon,
 earth (planet),

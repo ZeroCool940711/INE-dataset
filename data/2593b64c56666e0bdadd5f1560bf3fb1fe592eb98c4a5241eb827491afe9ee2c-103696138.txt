@@ -1,6 +1,7 @@
 ambiguous gender,
 armor,
 artist name,
+category:ine,
 full armor,
 glowing,
 glowing sword,
