@@ -1,6 +1,7 @@
 action,
 anger,
 battle,
+category:ine,
 combat,
 confrontation,
 creator:jasonengle,
