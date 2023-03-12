@@ -2,6 +2,7 @@
 artist name,
 belt,
 black hair,
+category:ine,
 coat,
 facial hair,
 grey background,
