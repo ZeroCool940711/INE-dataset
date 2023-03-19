@@ -1,5 +1,6 @@
 1girl,
 black background,
+category:ine,
 closed eyes,
 earrings,
 gradient hair,

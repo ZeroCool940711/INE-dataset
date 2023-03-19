@@ -1,5 +1,6 @@
 beard,
 braid,
+category:ine,
 character:princess zelda,
 earrings,
 elf,

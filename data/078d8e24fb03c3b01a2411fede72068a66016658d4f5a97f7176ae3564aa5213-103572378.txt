@@ -2,6 +2,7 @@
 beads,
 broken,
 broken chain,
+category:ine,
 chain,
 chain necklace,
 chained,

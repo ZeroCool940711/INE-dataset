@@ -1,5 +1,6 @@
 book,
 bookshelf,
+category:ine,
 chair,
 clock,
 desk,

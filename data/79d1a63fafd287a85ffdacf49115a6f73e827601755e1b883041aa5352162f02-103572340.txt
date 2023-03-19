@@ -1,6 +1,7 @@
 1boy,
 armor,
 black hair,
+category:ine,
 character:elezen,
 closed eyes,
 elf,

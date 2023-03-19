@@ -1,4 +1,5 @@
 assassin,
+category:ine,
 character:callidus assassin,
 creator:alexey kropachev,
 latex suit,

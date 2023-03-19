@@ -1,6 +1,7 @@
 1girl,
 black footwear,
 black hair,
+category:ine,
 chinese clothes,
 dress,
 earrings,

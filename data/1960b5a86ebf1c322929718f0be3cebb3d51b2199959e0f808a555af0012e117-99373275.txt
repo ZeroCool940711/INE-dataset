@@ -1,6 +1,7 @@
 air bubble,
 bubble,
 burning,
+category:ine,
 coral,
 explosion,
 fire,

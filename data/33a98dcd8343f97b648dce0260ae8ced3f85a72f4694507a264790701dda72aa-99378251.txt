@@ -2,6 +2,7 @@
 battle,
 bodysuit,
 building,
+category:ine,
 city,
 cloud,
 cloudy sky,

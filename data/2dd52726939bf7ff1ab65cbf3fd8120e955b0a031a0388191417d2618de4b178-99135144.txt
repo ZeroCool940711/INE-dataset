@@ -2,6 +2,7 @@
 architecture,
 bookshelf,
 building,
+category:ine,
 character:patchouli knowledge,
 city,
 graphite (medium),

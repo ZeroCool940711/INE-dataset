@@ -1,6 +1,7 @@
 1other,
 ambiguous gender,
 bare tree,
+category:ine,
 cloud,
 copyright name,
 facing away,

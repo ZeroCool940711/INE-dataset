@@ -2,6 +2,7 @@
 armor,
 belt,
 cape,
+category:ine,
 coat,
 dual wielding,
 fur collar,

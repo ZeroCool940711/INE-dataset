@@ -1,6 +1,7 @@
 aircraft,
 alien,
 building,
+category:ine,
 city,
 city lights,
 cityscape,

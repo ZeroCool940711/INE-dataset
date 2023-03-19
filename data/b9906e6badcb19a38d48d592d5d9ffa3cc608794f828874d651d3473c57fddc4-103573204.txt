@@ -2,6 +2,7 @@
 armor,
 breasts,
 cape,
+category:ine,
 gloves,
 greyscale,
 holding,

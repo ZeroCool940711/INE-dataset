@@ -1,6 +1,7 @@
 1other,
 bridge,
 castle,
+category:ine,
 city,
 city lights,
 cloud,

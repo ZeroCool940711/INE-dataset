@@ -1,6 +1,7 @@
 ...,
 bamboo,
 blank speech bubble,
+category:ine,
 character:hunter (bloodborne),
 circle,
 crescent moon,

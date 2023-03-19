@@ -1,5 +1,6 @@
 aircraft,
 antennae,
+category:ine,
 cigarette,
 cloud,
 cloudy sky,

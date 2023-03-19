@@ -1,5 +1,6 @@
 artist name,
 bush,
+category:ine,
 christmas tree,
 deer,
 fantasy,

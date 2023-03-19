@@ -1,6 +1,7 @@
 1girl,
 bracelet,
 breasts,
+category:ine,
 choker,
 elf,
 gloves,

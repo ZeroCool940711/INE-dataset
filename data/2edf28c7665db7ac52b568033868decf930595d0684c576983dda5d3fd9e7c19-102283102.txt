@@ -1,6 +1,7 @@
 arrow (projectile),
 bow (weapon),
 burning,
+category:ine,
 cloud,
 explosion,
 fire,

@@ -1,5 +1,6 @@
 assault rifle,
 building,
+category:ine,
 character:g11 (girls' frontline),
 character:hk416 (girls' frontline),
 character:ump9 (girls' frontline),

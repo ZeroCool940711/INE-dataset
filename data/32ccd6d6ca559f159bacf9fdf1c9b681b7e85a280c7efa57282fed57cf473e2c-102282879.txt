@@ -1,6 +1,7 @@
 1boy,
 black hair,
 breathing fire,
+category:ine,
 embers,
 fire,
 glowing,

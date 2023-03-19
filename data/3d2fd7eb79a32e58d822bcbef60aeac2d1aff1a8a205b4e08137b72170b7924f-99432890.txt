@@ -2,6 +2,7 @@
 armor,
 artist name,
 breastplate,
+category:ine,
 faulds,
 full body,
 gauntlets,

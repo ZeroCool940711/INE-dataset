@@ -2,6 +2,7 @@
 book,
 book stack,
 bookshelf,
+category:ine,
 character:koakuma,
 character:patchouli knowledge,
 crescent,

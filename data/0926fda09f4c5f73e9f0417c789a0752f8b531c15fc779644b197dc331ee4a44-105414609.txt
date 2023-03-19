@@ -1,6 +1,7 @@
 assault rifle,
 burning,
 campfire,
+category:ine,
 cloud,
 cloudy sky,
 explosion,

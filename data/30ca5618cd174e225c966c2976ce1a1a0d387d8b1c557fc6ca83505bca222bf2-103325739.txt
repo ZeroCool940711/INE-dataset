@@ -3,6 +3,7 @@
 aurora,
 breasts,
 cape,
+category:ine,
 circlet,
 cleavage,
 constellation,

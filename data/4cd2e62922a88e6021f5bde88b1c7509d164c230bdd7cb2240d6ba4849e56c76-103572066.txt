@@ -2,6 +2,7 @@
 1girl,
 black hair,
 book,
+category:ine,
 closed eyes,
 couch,
 gradient,

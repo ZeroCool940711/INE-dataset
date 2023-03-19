@@ -1,4 +1,5 @@
 armor,
+category:ine,
 dual wielding,
 full armor,
 gauntlets,

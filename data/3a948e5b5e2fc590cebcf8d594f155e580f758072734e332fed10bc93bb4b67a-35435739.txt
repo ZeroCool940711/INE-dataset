@@ -1,5 +1,6 @@
 antilousart,
 artist name,
+category:ine,
 creator:antilous chao,
 dark evil,
 furry,

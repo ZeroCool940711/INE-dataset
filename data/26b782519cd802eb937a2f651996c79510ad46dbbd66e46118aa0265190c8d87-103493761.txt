@@ -1,5 +1,6 @@
 blue sky,
 bridge,
+category:ine,
 city,
 cloud,
 cloudy sky,

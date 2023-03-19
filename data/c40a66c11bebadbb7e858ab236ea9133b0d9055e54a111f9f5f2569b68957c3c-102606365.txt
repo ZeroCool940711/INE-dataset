@@ -2,6 +2,7 @@
 bangs,
 battleship,
 cable,
+category:ine,
 flag background,
 headgear,
 japanese flag,

@@ -3,6 +3,7 @@
 artist name,
 blue cape,
 boots,
+category:ine,
 facing viewer,
 full body,
 gloves,

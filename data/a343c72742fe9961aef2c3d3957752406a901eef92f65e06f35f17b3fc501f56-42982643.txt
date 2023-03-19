@@ -1,6 +1,7 @@
 armor,
 blonde hair,
 cape,
+category:ine,
 drawing,
 ears,
 elves,

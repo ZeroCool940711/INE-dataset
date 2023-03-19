@@ -2,6 +2,7 @@
 armor,
 blue eyes,
 breasts,
+category:ine,
 cleavage,
 colored skin,
 elf,

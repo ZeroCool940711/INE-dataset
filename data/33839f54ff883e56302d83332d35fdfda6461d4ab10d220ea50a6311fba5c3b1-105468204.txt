@@ -1,6 +1,7 @@
 1girl,
 breathing fire,
 burning,
+category:ine,
 cloud,
 fiery hair,
 fire,

@@ -1,5 +1,6 @@
 1other,
 capelet,
+category:ine,
 character:hunter (bloodborne),
 coat,
 facing away,

@@ -1,6 +1,7 @@
 1girl,
 artist name,
 black choker,
+category:ine,
 character:elezen,
 choker,
 dark elf,

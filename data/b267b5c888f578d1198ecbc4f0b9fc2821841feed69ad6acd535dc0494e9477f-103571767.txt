@@ -2,6 +2,7 @@
 air bubble,
 blue theme,
 bubble,
+category:ine,
 dark,
 fantasy,
 fish,

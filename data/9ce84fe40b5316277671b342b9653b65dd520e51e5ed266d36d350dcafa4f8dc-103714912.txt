@@ -1,6 +1,7 @@
 battle,
 burning,
 cannon,
+category:ine,
 damaged,
 dirty,
 dusk,

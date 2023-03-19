@@ -2,6 +2,7 @@
 bird wings,
 black feathers,
 black wings,
+category:ine,
 character:reiuji utsuho,
 crow,
 feathered wings,

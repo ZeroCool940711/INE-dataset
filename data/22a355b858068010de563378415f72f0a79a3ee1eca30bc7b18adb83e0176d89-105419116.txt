@@ -1,5 +1,6 @@
 1boy,
 armor,
+category:ine,
 grey background,
 gun,
 helmet,

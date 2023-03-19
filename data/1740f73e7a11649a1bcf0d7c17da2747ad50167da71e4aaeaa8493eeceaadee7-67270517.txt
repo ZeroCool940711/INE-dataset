@@ -2,6 +2,7 @@
 abs,
 armor,
 bald,
+category:ine,
 copyright name,
 creator:inhyuk lee,
 gloves,

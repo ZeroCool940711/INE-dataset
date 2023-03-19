@@ -1,6 +1,7 @@
 1boy,
 armor,
 brown background,
+category:ine,
 full body,
 fur trim,
 gradient,

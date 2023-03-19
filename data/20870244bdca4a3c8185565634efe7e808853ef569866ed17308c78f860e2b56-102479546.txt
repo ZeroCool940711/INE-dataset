@@ -1,6 +1,7 @@
 battle,
 burning,
 cannon,
+category:ine,
 explosion,
 fire,
 firing,

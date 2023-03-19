@@ -2,6 +2,7 @@
 black hair,
 bracelet,
 breasts,
+category:ine,
 chain,
 collar,
 cuffs,

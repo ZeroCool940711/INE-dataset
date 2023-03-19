@@ -1,6 +1,7 @@
 bat,
 bird,
 castle,
+category:ine,
 cellphone,
 circle,
 clock tower,

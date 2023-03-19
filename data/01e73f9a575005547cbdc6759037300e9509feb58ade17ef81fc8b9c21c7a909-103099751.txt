@@ -4,6 +4,7 @@
 alcohol,
 bottle,
 brown hair,
+category:ine,
 crossover,
 cup,
 drinking glass,

@@ -2,6 +2,7 @@
 angel wings,
 armor,
 breasts,
+category:ine,
 feathered wings,
 flower,
 green eyes,

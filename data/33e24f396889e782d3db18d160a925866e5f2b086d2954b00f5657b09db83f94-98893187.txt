@@ -1,5 +1,6 @@
 1girl,
 architecture,
+category:ine,
 copyright name,
 holding weapon,
 long hair,

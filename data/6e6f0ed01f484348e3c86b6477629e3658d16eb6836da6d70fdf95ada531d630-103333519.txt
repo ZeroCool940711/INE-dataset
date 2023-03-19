@@ -2,6 +2,7 @@
 artist name,
 bald,
 beard,
+category:ine,
 facial hair,
 fur trim,
 gloves,

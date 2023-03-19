@@ -2,6 +2,7 @@
 aircraft,
 artist name,
 building,
+category:ine,
 city,
 copyright name,
 dated,

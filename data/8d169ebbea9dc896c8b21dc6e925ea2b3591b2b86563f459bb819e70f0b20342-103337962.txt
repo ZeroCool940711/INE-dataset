@@ -1,6 +1,7 @@
 1girl,
 ball,
 blue eyes,
+category:ine,
 character:misty (pokemon),
 eyelashes,
 hand in pocket,

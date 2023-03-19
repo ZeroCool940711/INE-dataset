@@ -3,6 +3,7 @@
 aircraft,
 assault rifle,
 building,
+category:ine,
 city,
 gun,
 handgun,

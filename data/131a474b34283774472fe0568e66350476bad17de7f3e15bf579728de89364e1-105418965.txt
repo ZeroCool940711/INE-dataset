@@ -1,5 +1,6 @@
 bird,
 black feathers,
+category:ine,
 chain,
 coat,
 crow,

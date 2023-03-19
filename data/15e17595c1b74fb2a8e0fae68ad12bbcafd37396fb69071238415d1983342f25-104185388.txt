@@ -1,5 +1,6 @@
 bridge,
 building,
+category:ine,
 chain-link fence,
 city,
 city lights,

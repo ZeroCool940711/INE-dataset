@@ -2,6 +2,7 @@
 beard,
 brown footwear,
 capelet,
+category:ine,
 facial hair,
 flower,
 full body,

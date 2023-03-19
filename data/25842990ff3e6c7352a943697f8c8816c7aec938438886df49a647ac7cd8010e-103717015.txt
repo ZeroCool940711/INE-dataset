@@ -2,6 +2,7 @@
 acoustic guitar,
 bass guitar,
 black hair,
+category:ine,
 closed eyes,
 electric guitar,
 grin,

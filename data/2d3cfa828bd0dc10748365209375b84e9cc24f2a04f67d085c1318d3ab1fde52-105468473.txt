@@ -1,6 +1,7 @@
 1boy,
 armor,
 blue eyes,
+category:ine,
 fingerless gloves,
 full body,
 gloves,

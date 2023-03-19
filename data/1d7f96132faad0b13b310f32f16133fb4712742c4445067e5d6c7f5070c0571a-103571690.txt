@@ -1,6 +1,7 @@
 bare tree,
 blue sky,
 building,
+category:ine,
 cloud,
 day,
 desert,

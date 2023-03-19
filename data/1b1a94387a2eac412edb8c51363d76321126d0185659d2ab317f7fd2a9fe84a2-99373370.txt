@@ -2,6 +2,7 @@
 breasts,
 brown eyes,
 brown hair,
+category:ine,
 flower,
 grass,
 hair flower,

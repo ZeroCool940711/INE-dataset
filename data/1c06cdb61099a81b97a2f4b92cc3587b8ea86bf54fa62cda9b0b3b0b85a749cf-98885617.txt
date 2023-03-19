@@ -3,6 +3,7 @@
 black hair,
 book,
 candle,
+category:ine,
 clock,
 cross,
 holding book,

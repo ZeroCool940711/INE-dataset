@@ -1,5 +1,6 @@
 architecture,
 building,
+category:ine,
 city,
 east asian architecture,
 full moon,

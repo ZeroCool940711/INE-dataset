@@ -1,5 +1,6 @@
 angel,
 angel wing,
+category:ine,
 creator:edward chee,
 darkwing,
 goddess,

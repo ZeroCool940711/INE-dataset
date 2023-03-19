@@ -2,6 +2,7 @@
 architecture,
 bird,
 building,
+category:ine,
 city,
 cityscape,
 day,

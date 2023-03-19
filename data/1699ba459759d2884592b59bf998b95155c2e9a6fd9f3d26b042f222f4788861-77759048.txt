@@ -1,6 +1,7 @@
 1boy,
 artist name,
 blue sky,
+category:ine,
 cloud,
 cloudy sky,
 copyright name,

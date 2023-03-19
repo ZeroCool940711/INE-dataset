@@ -1,5 +1,6 @@
 breathing fire,
 burning,
+category:ine,
 claws,
 dragon,
 dragon horns,

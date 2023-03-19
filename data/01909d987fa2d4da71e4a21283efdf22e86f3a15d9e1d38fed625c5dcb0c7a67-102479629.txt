@@ -2,6 +2,7 @@
 bandaid,
 beanie,
 beard,
+category:ine,
 chain,
 chain necklace,
 dog,

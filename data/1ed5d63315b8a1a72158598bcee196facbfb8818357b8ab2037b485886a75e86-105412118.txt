@@ -1,5 +1,6 @@
 bridge,
 building,
+category:ine,
 character:godzilla,
 city,
 cityscape,

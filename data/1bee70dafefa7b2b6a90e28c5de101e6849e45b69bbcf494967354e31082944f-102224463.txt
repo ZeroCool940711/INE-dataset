@@ -1,6 +1,7 @@
 architecture,
 bridge,
 building,
+category:ine,
 chimney,
 city,
 city lights,

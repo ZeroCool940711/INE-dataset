@@ -3,6 +3,7 @@
 animal ears,
 brown hair,
 bush,
+category:ine,
 chain,
 facial hair,
 forest,

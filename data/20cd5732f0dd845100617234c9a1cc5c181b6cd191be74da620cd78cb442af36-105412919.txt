@@ -1,6 +1,7 @@
 1girl,
 blue eyes,
 blue hair,
+category:ine,
 earrings,
 jewelry,
 lipstick,

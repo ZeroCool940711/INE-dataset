@@ -2,6 +2,7 @@
 animal,
 blonde hair,
 cat,
+category:ine,
 food,
 green eyes,
 halloween,

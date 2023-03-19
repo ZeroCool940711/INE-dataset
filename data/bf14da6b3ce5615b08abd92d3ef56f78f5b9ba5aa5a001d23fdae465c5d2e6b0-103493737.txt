@@ -1,6 +1,7 @@
 1boy,
 artist name,
 blue fire,
+category:ine,
 company name,
 electricity,
 energy,

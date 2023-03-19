@@ -1,6 +1,7 @@
 1girl,
 artist name,
 black hair,
+category:ine,
 copyright name,
 dress,
 full body,

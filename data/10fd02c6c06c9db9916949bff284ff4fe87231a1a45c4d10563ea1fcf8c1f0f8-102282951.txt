@@ -2,6 +2,7 @@
 bag,
 black hair,
 breasts,
+category:ine,
 character name,
 double bun,
 gun,

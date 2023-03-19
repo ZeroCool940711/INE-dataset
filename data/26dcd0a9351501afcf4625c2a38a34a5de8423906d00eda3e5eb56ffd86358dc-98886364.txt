@@ -1,4 +1,5 @@
 bare tree,
+category:ine,
 earth (planet),
 fireworks,
 forest,

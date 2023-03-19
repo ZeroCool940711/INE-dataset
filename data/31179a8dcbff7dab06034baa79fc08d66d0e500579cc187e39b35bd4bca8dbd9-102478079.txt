@@ -1,5 +1,6 @@
 animal ears,
 beach,
+category:ine,
 character:kaban (kemono friends),
 character:serval (kemono friends),
 cloud,

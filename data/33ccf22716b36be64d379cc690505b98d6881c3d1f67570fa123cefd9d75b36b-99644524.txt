@@ -2,6 +2,7 @@
 armor,
 beard,
 blue skin,
+category:ine,
 colored skin,
 facial hair,
 glowing,

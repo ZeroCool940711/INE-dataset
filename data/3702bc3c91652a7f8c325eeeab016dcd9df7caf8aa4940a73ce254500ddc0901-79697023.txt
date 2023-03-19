@@ -1,6 +1,7 @@
 6+boys,
 assault rifle,
 cape,
+category:ine,
 cloak,
 coat,
 creator:alexis rives,

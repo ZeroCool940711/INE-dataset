@@ -1,6 +1,7 @@
 1boy,
 animal,
 bag,
+category:ine,
 character:isabelle (animal crossing),
 dog,
 dog ears,

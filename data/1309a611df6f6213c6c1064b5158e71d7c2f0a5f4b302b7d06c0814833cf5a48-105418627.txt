@@ -1,4 +1,5 @@
 aurora,
+category:ine,
 cloud,
 earth (planet),
 galaxy,

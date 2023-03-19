@@ -1,6 +1,7 @@
 bare tree,
 branch,
 bush,
+category:ine,
 cloud,
 creator:jakub rozalski,
 field,

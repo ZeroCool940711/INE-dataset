@@ -1,6 +1,7 @@
 aura,
 aurora,
 blue fire,
+category:ine,
 electricity,
 fire,
 galaxy,

@@ -1,6 +1,7 @@
 beach,
 bird,
 blue sky,
+category:ine,
 cloud,
 cloudy sky,
 coconut,

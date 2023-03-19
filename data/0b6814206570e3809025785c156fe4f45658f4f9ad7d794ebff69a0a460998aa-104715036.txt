@@ -2,6 +2,7 @@
 bird,
 boat,
 bridge,
+category:ine,
 cloud,
 day,
 dock,

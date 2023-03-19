@@ -2,6 +2,7 @@
 air bubble,
 aurora,
 bubble,
+category:ine,
 caustics,
 city,
 diving,

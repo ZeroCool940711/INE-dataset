@@ -1,6 +1,7 @@
 1girl,
 artist name,
 bangs,
+category:ine,
 earrings,
 elf,
 green eyes,

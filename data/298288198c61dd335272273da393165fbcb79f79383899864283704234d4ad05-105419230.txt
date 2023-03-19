@@ -1,4 +1,5 @@
 assault rifle,
+category:ine,
 character:g11 (girls' frontline),
 character:ump9 (girls' frontline),
 character:ump45 (girls' frontline),
