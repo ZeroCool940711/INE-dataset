@@ -4,6 +4,7 @@
 black eyes,
 black hair,
 booru:danbooru,
+category:ine,
 clothing:hair tie,
 cloud,
 creator:alpyro,
