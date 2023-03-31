@@ -2,6 +2,7 @@
 beard,
 blonde hair,
 cape,
+category:ine,
 facial hair,
 gradient,
 gradient background,

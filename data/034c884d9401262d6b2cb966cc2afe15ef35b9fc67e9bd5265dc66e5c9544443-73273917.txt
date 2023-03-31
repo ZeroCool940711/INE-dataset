@@ -1,6 +1,7 @@
 black panther,
 cable,
 captain america,
+category:ine,
 comic,
 comic artist,
 comic book,

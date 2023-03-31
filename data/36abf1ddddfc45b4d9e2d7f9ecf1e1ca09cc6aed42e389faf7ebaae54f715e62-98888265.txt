@@ -1,5 +1,6 @@
 artist name,
 building,
+category:ine,
 city,
 clock,
 clock tower,

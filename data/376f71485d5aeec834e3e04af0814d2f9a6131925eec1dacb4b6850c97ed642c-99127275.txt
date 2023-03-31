@@ -1,6 +1,7 @@
 1girl,
 building,
 castle,
+category:ine,
 city,
 cloud,
 cloudy sky,

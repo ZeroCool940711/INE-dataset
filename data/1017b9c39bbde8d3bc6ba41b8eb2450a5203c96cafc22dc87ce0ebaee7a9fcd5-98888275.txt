@@ -1,6 +1,7 @@
 1girl,
 black hair,
 building,
+category:ine,
 city,
 city lights,
 coat,

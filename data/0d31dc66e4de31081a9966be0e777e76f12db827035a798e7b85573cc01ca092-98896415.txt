@@ -1,5 +1,6 @@
 burning,
 candle,
+category:ine,
 city,
 cloud,
 cloudy sky,

@@ -1,6 +1,7 @@
 1other,
 bare tree,
 branch,
+category:ine,
 coat,
 day,
 fence,

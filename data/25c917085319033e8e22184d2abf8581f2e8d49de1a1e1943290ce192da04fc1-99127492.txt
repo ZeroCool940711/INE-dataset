@@ -2,6 +2,7 @@
 bridge,
 building,
 castle,
+category:ine,
 city,
 cityscape,
 cloud,

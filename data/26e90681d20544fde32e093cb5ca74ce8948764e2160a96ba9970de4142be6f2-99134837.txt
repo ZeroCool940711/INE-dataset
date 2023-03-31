@@ -1,6 +1,7 @@
 black border,
 building,
 castle,
+category:ine,
 city,
 city lights,
 cityscape,

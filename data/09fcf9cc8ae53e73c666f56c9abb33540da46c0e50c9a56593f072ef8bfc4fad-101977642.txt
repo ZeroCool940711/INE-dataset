@@ -1,6 +1,7 @@
 boat,
 bridge,
 building,
+category:ine,
 city,
 cityscape,
 cloud,

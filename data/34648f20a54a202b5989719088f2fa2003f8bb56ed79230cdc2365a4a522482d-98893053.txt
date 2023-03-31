@@ -1,6 +1,7 @@
 1boy,
 bandages,
 bird,
+category:ine,
 full body,
 holding,
 holding sword,

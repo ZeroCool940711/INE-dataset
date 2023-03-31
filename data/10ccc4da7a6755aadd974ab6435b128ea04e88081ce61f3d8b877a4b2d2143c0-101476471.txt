@@ -2,6 +2,7 @@
 assault rifle,
 black pants,
 building,
+category:ine,
 cyberpunk,
 finger on trigger,
 gun,

@@ -1,6 +1,7 @@
 blue sky,
 boat,
 bridge,
+category:ine,
 cloud,
 cloudy sky,
 day,

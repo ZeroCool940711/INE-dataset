@@ -1,5 +1,6 @@
 beach,
 car,
+category:ine,
 city lights,
 cloud,
 cloudy sky,

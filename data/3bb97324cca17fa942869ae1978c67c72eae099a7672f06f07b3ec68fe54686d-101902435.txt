@@ -2,6 +2,7 @@
 black legwear,
 blonde hair,
 bow,
+category:ine,
 dagger,
 dress,
 hairband,

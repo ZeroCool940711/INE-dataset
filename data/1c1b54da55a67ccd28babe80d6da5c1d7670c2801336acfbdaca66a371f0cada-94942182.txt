@@ -1,6 +1,7 @@
 balloon,
 bare tree,
 branch,
+category:ine,
 lantern,
 lens flare,
 lights,

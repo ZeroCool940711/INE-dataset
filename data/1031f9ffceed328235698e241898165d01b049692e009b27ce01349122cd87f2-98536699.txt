@@ -2,6 +2,7 @@
 armor,
 boots,
 brown hair,
+category:ine,
 full body,
 gloves,
 green eyes,

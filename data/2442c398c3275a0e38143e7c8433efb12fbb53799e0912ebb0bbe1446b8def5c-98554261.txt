@@ -2,6 +2,7 @@
 bald,
 beard,
 bird,
+category:ine,
 coat,
 facial hair,
 hat,

@@ -1,6 +1,7 @@
 arch,
 architecture,
 castle,
+category:ine,
 crescent moon,
 east asian architecture,
 fantasy,

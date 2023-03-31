@@ -1,5 +1,6 @@
 brick wall,
 bush,
+category:ine,
 door,
 fence,
 flower,

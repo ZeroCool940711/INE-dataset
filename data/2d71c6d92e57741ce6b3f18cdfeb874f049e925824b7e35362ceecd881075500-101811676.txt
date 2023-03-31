@@ -1,5 +1,6 @@
 1boy,
 artist name,
+category:ine,
 fire,
 flame,
 glowing,

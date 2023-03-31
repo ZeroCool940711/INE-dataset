@@ -2,6 +2,7 @@
 architecture,
 bare tree,
 building,
+category:ine,
 character:hunter (bloodborne),
 dark,
 east asian architecture,

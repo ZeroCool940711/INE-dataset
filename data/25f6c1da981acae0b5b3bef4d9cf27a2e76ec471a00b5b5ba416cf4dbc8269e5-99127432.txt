@@ -1,6 +1,7 @@
 architecture,
 blue sky,
 castle,
+category:ine,
 cloud,
 cloudy sky,
 day,

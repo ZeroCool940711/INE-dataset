@@ -1,6 +1,7 @@
 1girl,
 40kwarhammer,
 artist name,
+category:ine,
 creator:anatofinnstark,
 eldritch abomination,
 fantasycreature,

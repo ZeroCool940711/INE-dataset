@@ -2,6 +2,7 @@
 bald,
 beard,
 blonde hair,
+category:ine,
 crown,
 curtains,
 facial hair,

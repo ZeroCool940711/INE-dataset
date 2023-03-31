@@ -1,6 +1,7 @@
 1boy,
 beard,
 burning,
+category:ine,
 embers,
 facial hair,
 fire,

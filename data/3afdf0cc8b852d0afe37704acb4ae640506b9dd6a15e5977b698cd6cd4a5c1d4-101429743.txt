@@ -2,6 +2,7 @@
 architecture,
 bare tree,
 building,
+category:ine,
 city,
 cityscape,
 fire,

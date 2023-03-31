@@ -1,5 +1,6 @@
 bare tree,
 bird,
+category:ine,
 city,
 cloud,
 fantasy,

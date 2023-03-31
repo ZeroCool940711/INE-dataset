@@ -1,5 +1,6 @@
 ambiguous gender,
 artist name,
+category:ine,
 claws,
 creator:manzanedo,
 fangs,

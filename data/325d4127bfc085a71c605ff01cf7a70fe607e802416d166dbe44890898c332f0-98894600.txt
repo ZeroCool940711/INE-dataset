@@ -1,4 +1,5 @@
 astronaut,
+category:ine,
 comic,
 desert,
 earth (planet),

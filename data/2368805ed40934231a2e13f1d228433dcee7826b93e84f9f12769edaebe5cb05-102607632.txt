@@ -1,6 +1,7 @@
 1girl,
 asymmetrical hair,
 breasts,
+category:ine,
 electricity,
 energy,
 fingerless gloves,

@@ -1,6 +1,7 @@
 1boy,
 bandages,
 beard,
+category:ine,
 copyright name,
 energy gun,
 english text,

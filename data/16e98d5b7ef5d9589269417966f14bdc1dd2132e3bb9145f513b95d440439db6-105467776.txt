@@ -1,5 +1,6 @@
 armor,
 beard,
+category:ine,
 facial hair,
 gauntlets,
 holding,

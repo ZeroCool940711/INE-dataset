@@ -1,5 +1,6 @@
 1girl,
 black hair,
+category:ine,
 dark skin,
 dark-skinned female,
 jewelry,

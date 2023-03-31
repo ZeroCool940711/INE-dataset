@@ -1,5 +1,6 @@
 armor,
 building,
+category:ine,
 city,
 cloud,
 embers,

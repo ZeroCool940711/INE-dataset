@@ -1,6 +1,7 @@
 1girl,
 bare shoulders,
 breasts,
+category:ine,
 colored skin,
 full body,
 jewelry,

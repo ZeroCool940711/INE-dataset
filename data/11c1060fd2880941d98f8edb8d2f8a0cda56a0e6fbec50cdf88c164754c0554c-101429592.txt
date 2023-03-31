@@ -2,6 +2,7 @@
 black hair,
 book,
 breasts,
+category:ine,
 colored skin,
 earrings,
 glowing,

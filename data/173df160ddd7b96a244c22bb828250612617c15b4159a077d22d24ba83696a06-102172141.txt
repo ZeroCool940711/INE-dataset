@@ -1,5 +1,6 @@
 building,
 bush,
+category:ine,
 facing away,
 fantasy,
 forest,

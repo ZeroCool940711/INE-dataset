@@ -2,6 +2,7 @@
 black hair,
 breasts,
 cape,
+category:ine,
 colored skin,
 elbow gloves,
 full body,

@@ -1,5 +1,6 @@
 building,
 capelet,
+category:ine,
 cloud,
 cloudy sky,
 day,

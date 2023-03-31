@@ -1,5 +1,6 @@
 1boy,
 building,
+category:ine,
 city,
 cityscape,
 coat,

@@ -1,6 +1,7 @@
 beach,
 blue sky,
 building,
+category:ine,
 city,
 cliff,
 cloud,

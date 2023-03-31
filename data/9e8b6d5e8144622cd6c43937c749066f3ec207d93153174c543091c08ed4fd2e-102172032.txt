@@ -1,5 +1,6 @@
 battle,
 cannon,
+category:ine,
 damaged,
 explosion,
 fire,

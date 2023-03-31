@@ -1,6 +1,7 @@
 1boy,
 armor,
 artist name,
+category:ine,
 fake horns,
 full armor,
 full body,

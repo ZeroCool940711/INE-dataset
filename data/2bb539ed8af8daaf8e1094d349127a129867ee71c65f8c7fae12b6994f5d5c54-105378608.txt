@@ -2,6 +2,7 @@
 bald,
 beard,
 brown footwear,
+category:ine,
 clenched hand,
 clenched hands,
 facial hair,

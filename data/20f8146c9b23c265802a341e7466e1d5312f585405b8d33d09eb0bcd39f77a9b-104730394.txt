@@ -1,5 +1,6 @@
 aircraft,
 building,
+category:ine,
 city,
 city lights,
 cloud,

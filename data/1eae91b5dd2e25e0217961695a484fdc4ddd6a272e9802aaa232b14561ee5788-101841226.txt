@@ -1,5 +1,6 @@
 building,
 castle,
+category:ine,
 city,
 cityscape,
 glowing,

@@ -2,6 +2,7 @@
 alien,
 artist name,
 blue eyes,
+category:ine,
 eyelashes,
 glowing,
 glowing eyes,

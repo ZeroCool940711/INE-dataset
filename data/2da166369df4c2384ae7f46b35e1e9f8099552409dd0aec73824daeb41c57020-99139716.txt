@@ -1,6 +1,7 @@
 1girl,
 bird,
 building,
+category:ine,
 city,
 cityscape,
 cloud,

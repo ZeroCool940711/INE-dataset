@@ -1,6 +1,7 @@
 1boy,
 black hair,
 brick wall,
+category:ine,
 chain,
 earrings,
 energy ball,

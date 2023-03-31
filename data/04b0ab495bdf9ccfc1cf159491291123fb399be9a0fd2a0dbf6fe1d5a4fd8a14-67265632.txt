@@ -2,6 +2,7 @@
 blood,
 blood on clothes,
 blood on face,
+category:ine,
 creator:inhyuk lee,
 dc comics,
 dceased,

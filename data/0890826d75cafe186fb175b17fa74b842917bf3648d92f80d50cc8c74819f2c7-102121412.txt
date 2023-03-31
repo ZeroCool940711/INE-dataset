@@ -2,6 +2,7 @@
 1other,
 armor,
 cape,
+category:ine,
 gauntlets,
 helmet,
 holding,

@@ -1,4 +1,5 @@
 castles,
+category:ine,
 creator:nimphradora,
 croatia,
 environment,

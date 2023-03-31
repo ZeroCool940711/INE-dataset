@@ -1,6 +1,7 @@
 1boy,
 blue skin,
 book,
+category:ine,
 colored skin,
 facial hair,
 full moon,

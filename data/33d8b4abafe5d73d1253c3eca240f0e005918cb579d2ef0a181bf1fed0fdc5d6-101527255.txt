@@ -1,6 +1,7 @@
 1boy,
 abs,
 cape,
+category:ine,
 forest,
 gloves,
 grass,

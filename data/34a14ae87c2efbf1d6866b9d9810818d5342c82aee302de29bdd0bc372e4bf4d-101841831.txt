@@ -1,5 +1,6 @@
 artist name,
 battle,
+category:ine,
 giant,
 gun,
 hat,

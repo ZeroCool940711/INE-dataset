@@ -2,6 +2,7 @@
 bfa,
 blizzard,
 blizzard student art contest,
+category:ine,
 contest,
 creator:eleanor "hal" anderson,
 diffuse,

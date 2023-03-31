@@ -1,5 +1,6 @@
 1girl,
 black border,
+category:ine,
 characterdesign,
 closed eyes,
 creator:ngan pham,

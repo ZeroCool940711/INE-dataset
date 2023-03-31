@@ -1,5 +1,6 @@
 burning,
 campfire,
+category:ine,
 cliff,
 cloud,
 cloudy sky,

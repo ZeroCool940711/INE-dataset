@@ -1,6 +1,7 @@
 animal,
 blue eyes,
 bush,
+category:ine,
 field,
 forest,
 grass,

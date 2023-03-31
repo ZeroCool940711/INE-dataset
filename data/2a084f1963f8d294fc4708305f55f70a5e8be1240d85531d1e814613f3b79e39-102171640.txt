@@ -1,6 +1,7 @@
 bamboo,
 branch,
 cactus,
+category:ine,
 leaf,
 no humans,
 open mouth,

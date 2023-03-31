@@ -1,5 +1,6 @@
 antlers,
 artist name,
+category:ine,
 christmas,
 christmas ornaments,
 christmas tree,

@@ -1,3 +1,4 @@
+category:ine,
 cave,
 character:kawashiro nitori,
 cliff,

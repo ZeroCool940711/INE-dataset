@@ -1,5 +1,6 @@
 building,
 car,
+category:ine,
 city,
 city lights,
 cityscape,

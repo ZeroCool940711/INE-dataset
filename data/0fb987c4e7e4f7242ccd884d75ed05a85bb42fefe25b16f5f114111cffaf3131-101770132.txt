@@ -1,6 +1,7 @@
 1girl,
 bare shoulders,
 blue skin,
+category:ine,
 character:widowmaker (overwatch),
 colored skin,
 earrings,

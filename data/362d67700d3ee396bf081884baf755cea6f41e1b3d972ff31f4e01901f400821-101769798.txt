@@ -2,6 +2,7 @@
 animal ears,
 antlers,
 blonde hair,
+category:ine,
 character:serval (kemono friends),
 cloud,
 crescent moon,

@@ -1,5 +1,6 @@
 1boy,
 assault rifle,
+category:ine,
 gun,
 holding gun,
 military,

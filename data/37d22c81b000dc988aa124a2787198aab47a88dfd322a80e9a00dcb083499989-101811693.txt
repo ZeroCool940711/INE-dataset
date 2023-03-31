@@ -1,6 +1,7 @@
 bridge,
 building,
 castle,
+category:ine,
 city,
 cloud,
 cloudy sky,

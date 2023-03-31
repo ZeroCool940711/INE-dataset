@@ -1,6 +1,7 @@
 bamboo,
 bare tree,
 branch,
+category:ine,
 coral,
 fish,
 flower,

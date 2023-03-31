@@ -1,6 +1,7 @@
 armor,
 artist name,
 beard,
+category:ine,
 full armor,
 full body,
 gauntlets,

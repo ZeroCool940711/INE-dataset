@@ -1,6 +1,7 @@
 1other,
 animal,
 bird,
+category:ine,
 cloud,
 cloudy sky,
 crow,

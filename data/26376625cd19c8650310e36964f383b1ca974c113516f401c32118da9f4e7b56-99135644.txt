@@ -1,6 +1,7 @@
 building,
 burning,
 campfire,
+category:ine,
 city,
 cityscape,
 cloud,

@@ -17,7 +17,6 @@ booru:https://v.sankakucomplex.com/data/6d/80/6d80bd1b77bff83c90ddfbb8e3c45517.j
 booru:https://v.sankakucomplex.com/data/6d/80/6d80bd1b77bff83c90ddfbb8e3c45517.jpg?e=1653648655&expires=1653648654&m=widpto-ea2ydfgh96mdn4q&token=6ur4l0dylhmjbxhg-azyjzlwtxabtzsl3-3zskrdhio,
 booru:https://v.sankakucomplex.com/data/6d/80/6d80bd1b77bff83c90ddfbb8e3c45517.jpg?e=1654281661&expires=1654281661&m=jzc0t0fn_5uszkph_kp_5w&token=d9xpe-hp9d_y6pfjszw74qsd4jhlmtu2ibi8f1mmjfu,
 booru:https://v.sankakucomplex.com/data/6d/80/6d80bd1b77bff83c90ddfbb8e3c45517.jpg?e=1655138532&expires=1655138532&m=zaalvjfuto20cmbdttc6bq&token=dqelepnxu5a-wifkgt3dhj0im1fur1fu3mgbvzn2yw8,
-booru:https://v.sankakucomplex.com/data/6d/80/6d80bd1b77bff83c90ddfbb8e3c45517.jpg?e=1655866123&expires=1655866122&m=vmyn4s9l15zlsa-pn67z2w&token=jne678xpth6kh1zrxeg6q0uwgiiiboo5hztpb2zbeqi,
 booru:sankaku,
 boots,
 braid,

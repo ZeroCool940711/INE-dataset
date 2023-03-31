@@ -1,6 +1,7 @@
 1girl,
 aurora,
 building,
+category:ine,
 city,
 city lights,
 cityscape,

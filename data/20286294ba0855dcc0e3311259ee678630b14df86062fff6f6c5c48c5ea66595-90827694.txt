@@ -2,6 +2,7 @@
 beard,
 boat,
 boots,
+category:ine,
 cave,
 dated,
 holding,

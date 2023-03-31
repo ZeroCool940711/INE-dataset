@@ -1,4 +1,5 @@
 armor,
+category:ine,
 faulds,
 full armor,
 gauntlets,

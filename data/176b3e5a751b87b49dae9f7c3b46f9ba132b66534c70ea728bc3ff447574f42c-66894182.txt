@@ -3,6 +3,7 @@
 3d,
 blonde hair,
 blue eyes,
+category:ine,
 creator:mikhail palamarchuk,
 cyberpunk,
 full body,

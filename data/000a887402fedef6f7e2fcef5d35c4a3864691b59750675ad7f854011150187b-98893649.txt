@@ -2,6 +2,7 @@
 aqua hair,
 artist name,
 blue hair,
+category:ine,
 circle,
 closed eyes,
 constellation,

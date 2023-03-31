@@ -1,6 +1,7 @@
 axe,
 backpack,
 bush,
+category:ine,
 cloud,
 day,
 facing away,

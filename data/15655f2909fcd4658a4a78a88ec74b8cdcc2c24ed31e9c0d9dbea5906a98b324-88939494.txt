@@ -1,6 +1,7 @@
 1girl,
 assault rifle,
 building,
+category:ine,
 character:ump45 (girls' frontline),
 cloudy sky,
 creator:astero .,

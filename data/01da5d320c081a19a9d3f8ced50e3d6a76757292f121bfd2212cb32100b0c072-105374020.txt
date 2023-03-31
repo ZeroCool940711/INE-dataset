@@ -1,6 +1,7 @@
 1girl,
 armor,
 brown hair,
+category:ine,
 full body,
 gradient,
 gradient background,

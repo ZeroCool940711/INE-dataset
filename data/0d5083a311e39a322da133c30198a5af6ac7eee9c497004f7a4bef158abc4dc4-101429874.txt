@@ -2,6 +2,7 @@
 1girl,
 blue sky,
 building,
+category:ine,
 cherry blossoms,
 cloud,
 confetti,

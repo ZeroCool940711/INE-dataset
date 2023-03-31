@@ -1,6 +1,7 @@
 1boy,
 black hair,
 blue sky,
+category:ine,
 cloud,
 cloudy sky,
 coat,

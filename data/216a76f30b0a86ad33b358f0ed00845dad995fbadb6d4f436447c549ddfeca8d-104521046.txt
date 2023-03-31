@@ -2,6 +2,7 @@
 armor,
 bat,
 castle,
+category:ine,
 cloud,
 dragon,
 long hair,

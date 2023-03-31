@@ -1,6 +1,7 @@
 1boy,
 animal,
 bear,
+category:ine,
 dog,
 fox,
 gun,

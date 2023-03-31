@@ -2,6 +2,7 @@
 artist name,
 barefoot,
 cape,
+category:ine,
 dress,
 forehead jewel,
 full body,

@@ -1,6 +1,7 @@
 1girl,
 artist name,
 black border,
+category:ine,
 day,
 gun,
 indoors,
