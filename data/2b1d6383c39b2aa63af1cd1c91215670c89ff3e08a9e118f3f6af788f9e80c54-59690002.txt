@@ -3,6 +3,7 @@
 axe,
 battle axe,
 brown hair,
+category:ine,
 fur trim,
 halberd,
 holding axe,

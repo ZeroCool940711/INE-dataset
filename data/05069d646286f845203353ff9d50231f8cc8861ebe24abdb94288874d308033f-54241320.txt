@@ -1,5 +1,6 @@
 blonde hair,
 bracelet,
+category:ine,
 hat,
 jewelry,
 katana,

@@ -1,5 +1,6 @@
 6+boys,
 car,
+category:ine,
 caterpillar tracks,
 ground vehicle,
 gun,

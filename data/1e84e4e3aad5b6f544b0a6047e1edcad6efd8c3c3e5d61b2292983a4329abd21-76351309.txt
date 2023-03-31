@@ -1,6 +1,7 @@
 bird,
 building,
 castle,
+category:ine,
 cloud,
 dandelion,
 day,
