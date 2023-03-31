@@ -2,6 +2,7 @@
 abs,
 animal ears,
 breasts,
+category:ine,
 claws,
 furry,
 grey background,

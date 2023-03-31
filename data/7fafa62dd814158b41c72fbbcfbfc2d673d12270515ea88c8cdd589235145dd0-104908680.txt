@@ -3,6 +3,7 @@
 assault rifle,
 bullpup,
 camouflage,
+category:ine,
 full body,
 gun,
 holding gun,

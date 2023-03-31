@@ -2,6 +2,7 @@
 belt,
 boots,
 brown footwear,
+category:ine,
 cloak,
 full body,
 grass,

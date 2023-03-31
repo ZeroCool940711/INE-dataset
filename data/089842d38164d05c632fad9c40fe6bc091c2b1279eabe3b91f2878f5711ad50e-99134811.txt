@@ -1,6 +1,7 @@
 1girl,
 1other,
 building,
+category:ine,
 cloud,
 cloudy sky,
 day,

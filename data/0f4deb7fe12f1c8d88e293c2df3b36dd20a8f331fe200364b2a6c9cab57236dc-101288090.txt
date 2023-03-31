@@ -2,6 +2,7 @@
 arm tattoo,
 black hair,
 bottle,
+category:ine,
 chest tattoo,
 facepaint,
 facial tattoo,

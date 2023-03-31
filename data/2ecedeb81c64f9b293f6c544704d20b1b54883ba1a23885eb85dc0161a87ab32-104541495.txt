@@ -1,5 +1,6 @@
 bare tree,
 border,
+category:ine,
 cloud,
 cloudy sky,
 evening,

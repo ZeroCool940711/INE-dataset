@@ -2,6 +2,7 @@
 bare tree,
 branch,
 bush,
+category:ine,
 fantasy,
 fireflies,
 forest,

@@ -1,6 +1,7 @@
 1girl,
 armor,
 battle,
+category:ine,
 explosion,
 fire,
 glowing,

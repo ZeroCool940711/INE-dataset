@@ -1,6 +1,7 @@
 1girl,
 armor,
 boots,
+category:ine,
 full body,
 hat,
 high heels,

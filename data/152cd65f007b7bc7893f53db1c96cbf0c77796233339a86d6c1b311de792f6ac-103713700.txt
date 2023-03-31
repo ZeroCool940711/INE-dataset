@@ -2,6 +2,7 @@
 abs,
 beard,
 blue eyes,
+category:ine,
 electricity,
 glowing,
 jewelry,

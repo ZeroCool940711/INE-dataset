@@ -2,6 +2,7 @@
 bare tree,
 blonde hair,
 blurry,
+category:ine,
 coat,
 depth of field,
 from side,

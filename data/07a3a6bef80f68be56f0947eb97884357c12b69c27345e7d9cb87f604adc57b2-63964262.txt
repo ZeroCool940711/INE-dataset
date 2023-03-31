@@ -1,6 +1,7 @@
 beach,
 boat,
 bridge,
+category:ine,
 city,
 city lights,
 cloud,

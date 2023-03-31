@@ -2,6 +2,7 @@
 :p,
 bodysuit,
 breasts,
+category:ine,
 character:asui tsuyu,
 christmas tree,
 flower,

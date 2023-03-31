@@ -1,5 +1,6 @@
 1boy,
 abs,
+category:ine,
 lily pad,
 long hair,
 male focus,

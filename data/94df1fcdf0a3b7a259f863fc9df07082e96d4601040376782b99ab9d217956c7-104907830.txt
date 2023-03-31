@@ -1,6 +1,7 @@
 1970s (style),
 1980s (style),
 artist name,
+category:ine,
 city,
 city lights,
 crescent moon,

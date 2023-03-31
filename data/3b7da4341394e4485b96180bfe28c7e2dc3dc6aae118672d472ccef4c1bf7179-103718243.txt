@@ -2,6 +2,7 @@
 beard,
 book,
 bookshelf,
+category:ine,
 facial hair,
 library,
 male focus,

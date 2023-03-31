@@ -2,6 +2,7 @@
 armor,
 black hair,
 border,
+category:ine,
 gloves,
 grey background,
 greyscale,

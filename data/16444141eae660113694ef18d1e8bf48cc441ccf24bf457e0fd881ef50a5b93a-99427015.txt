@@ -4,6 +4,7 @@
 armor,
 beard,
 brown hair,
+category:ine,
 day,
 facial hair,
 grass,

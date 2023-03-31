@@ -1,5 +1,6 @@
 bird,
 castle,
+category:ine,
 cliff,
 cloud,
 cloudy sky,

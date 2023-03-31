@@ -2,6 +2,7 @@
 bare tree,
 bat,
 bird,
+category:ine,
 cloud,
 cloudy sky,
 crow,

@@ -1,6 +1,7 @@
 1other,
 bare tree,
 branch,
+category:ine,
 forest,
 holding,
 holding sword,

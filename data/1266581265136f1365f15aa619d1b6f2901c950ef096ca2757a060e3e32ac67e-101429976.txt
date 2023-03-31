@@ -2,6 +2,7 @@
 armor,
 beard,
 book,
+category:ine,
 facial hair,
 holding,
 holding book,

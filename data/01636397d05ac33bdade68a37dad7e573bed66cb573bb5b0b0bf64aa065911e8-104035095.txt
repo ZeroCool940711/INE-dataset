@@ -2,6 +2,7 @@
 black hair,
 blonde hair,
 braid,
+category:ine,
 cherry blossoms,
 closed eyes,
 dark skin,

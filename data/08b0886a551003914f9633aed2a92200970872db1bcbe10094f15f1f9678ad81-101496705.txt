@@ -1,5 +1,6 @@
 1girl,
 boots,
+category:ine,
 colored skin,
 curly hair,
 flower,

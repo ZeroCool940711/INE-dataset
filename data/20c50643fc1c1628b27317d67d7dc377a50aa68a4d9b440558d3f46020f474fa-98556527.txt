@@ -2,6 +2,7 @@
 black border,
 blue sky,
 building,
+category:ine,
 city,
 cityscape,
 cloud,

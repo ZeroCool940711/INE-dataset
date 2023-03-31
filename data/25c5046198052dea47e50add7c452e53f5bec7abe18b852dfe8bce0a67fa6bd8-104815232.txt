@@ -2,6 +2,7 @@
 black hair,
 boots,
 cape,
+category:ine,
 cloak,
 fingerless gloves,
 full body,

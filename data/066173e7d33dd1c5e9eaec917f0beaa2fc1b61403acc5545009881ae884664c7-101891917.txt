@@ -1,6 +1,7 @@
 beach,
 blue sky,
 border,
+category:ine,
 city,
 cloud,
 cloudy sky,

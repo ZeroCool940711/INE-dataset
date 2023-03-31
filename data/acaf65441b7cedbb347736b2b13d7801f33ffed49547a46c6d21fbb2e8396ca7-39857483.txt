@@ -1,6 +1,7 @@
 art,
 building,
 castle,
+category:ine,
 creator:raphael lacoste,
 film,
 genre:science fiction,

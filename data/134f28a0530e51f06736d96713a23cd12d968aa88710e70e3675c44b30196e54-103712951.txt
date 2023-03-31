@@ -1,6 +1,7 @@
 antlers,
 bare tree,
 branch,
+category:ine,
 forest,
 greyscale,
 lake,

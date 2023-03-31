@@ -3,6 +3,7 @@
 boots,
 breasts,
 cable,
+category:ine,
 comic,
 comic artist,
 comic book art,

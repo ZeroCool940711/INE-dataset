@@ -1,6 +1,7 @@
 6+boys,
 bird,
 castle,
+category:ine,
 cloud,
 cloudy sky,
 day,

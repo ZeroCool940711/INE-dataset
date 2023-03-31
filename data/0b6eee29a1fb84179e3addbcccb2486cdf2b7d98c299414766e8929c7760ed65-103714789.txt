@@ -2,6 +2,7 @@
 animal,
 bird,
 bird on hand,
+category:ine,
 crow,
 dove,
 dress,

@@ -1,6 +1,7 @@
 1girl,
 bat wings,
 breasts,
+category:ine,
 demon girl,
 demon wings,
 lips,

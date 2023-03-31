@@ -1,5 +1,6 @@
 aircraft,
 beach,
+category:ine,
 cloud,
 desert,
 dusk,

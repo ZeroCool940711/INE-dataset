@@ -2,6 +2,7 @@
 animal,
 artist name,
 boots,
+category:ine,
 gun,
 holding,
 holding gun,

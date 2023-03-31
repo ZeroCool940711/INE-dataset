@@ -1,6 +1,7 @@
 1girl,
 bodysuit,
 breasts,
+category:ine,
 domino mask,
 fire,
 floating hair,

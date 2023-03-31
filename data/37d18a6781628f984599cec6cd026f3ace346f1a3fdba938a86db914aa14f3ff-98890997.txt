@@ -3,6 +3,7 @@
 aura,
 blue fire,
 book,
+category:ine,
 electricity,
 energy,
 fire,

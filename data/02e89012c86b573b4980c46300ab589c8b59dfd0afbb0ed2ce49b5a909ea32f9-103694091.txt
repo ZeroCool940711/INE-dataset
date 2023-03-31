@@ -1,6 +1,7 @@
 aerial fireworks,
 aurora,
 bare tree,
+category:ine,
 cherry,
 city lights,
 constellation,

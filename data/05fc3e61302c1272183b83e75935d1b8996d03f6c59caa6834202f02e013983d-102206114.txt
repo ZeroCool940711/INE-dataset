@@ -1,6 +1,7 @@
 1boy,
 american flag,
 belt,
+category:ine,
 diffraction spikes,
 energy gun,
 energy sword,

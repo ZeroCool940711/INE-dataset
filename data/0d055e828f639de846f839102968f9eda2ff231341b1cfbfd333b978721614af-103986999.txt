@@ -1,6 +1,7 @@
 breathing fire,
 burning,
 campfire,
+category:ine,
 character:bowser,
 character:mario,
 character:samus aran,

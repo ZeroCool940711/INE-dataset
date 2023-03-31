@@ -1,6 +1,7 @@
 autumn,
 blue sky,
 calm,
+category:ine,
 cloud,
 cloudy sky,
 creator:calder moore,

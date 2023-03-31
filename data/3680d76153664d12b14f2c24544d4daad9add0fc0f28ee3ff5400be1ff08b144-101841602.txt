@@ -2,6 +2,7 @@
 armor,
 bald,
 beard,
+category:ine,
 cloud,
 cloudy sky,
 dusk,

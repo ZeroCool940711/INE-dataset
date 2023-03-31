@@ -2,6 +2,7 @@
 1other,
 beach,
 boat,
+category:ine,
 city,
 cloud,
 cloudy sky,

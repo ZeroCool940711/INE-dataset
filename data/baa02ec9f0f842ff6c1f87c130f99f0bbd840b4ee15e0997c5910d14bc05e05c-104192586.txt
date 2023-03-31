@@ -1,6 +1,7 @@
 air bubble,
 aurora,
 boat,
+category:ine,
 city lights,
 constellation,
 earth (planet),

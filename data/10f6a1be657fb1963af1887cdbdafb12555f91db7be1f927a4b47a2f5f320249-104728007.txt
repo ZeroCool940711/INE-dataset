@@ -1,6 +1,7 @@
 1girl,
 bare tree,
 building,
+category:ine,
 city,
 city lights,
 cityscape,

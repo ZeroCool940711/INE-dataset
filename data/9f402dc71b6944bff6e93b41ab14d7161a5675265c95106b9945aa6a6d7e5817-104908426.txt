@@ -1,5 +1,6 @@
 + +,
 armor,
+category:ine,
 diffraction spikes,
 energy sword,
 glint,

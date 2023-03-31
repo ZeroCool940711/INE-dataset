@@ -1,6 +1,7 @@
 blue dragon,
 breathing fire,
 burning,
+category:ine,
 claws,
 creator:antilous chao,
 embers,

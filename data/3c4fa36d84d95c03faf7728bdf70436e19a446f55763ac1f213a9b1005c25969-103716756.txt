@@ -1,6 +1,7 @@
 1boy,
 abs,
 arm up,
+category:ine,
 coin,
 earrings,
 green eyes,

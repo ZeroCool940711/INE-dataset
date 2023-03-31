@@ -1,5 +1,6 @@
 aurora,
 building,
+category:ine,
 city lights,
 cloud,
 earth (planet),

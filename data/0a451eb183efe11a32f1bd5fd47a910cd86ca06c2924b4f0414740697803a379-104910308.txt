@@ -1,6 +1,7 @@
 1girl,
 beanie,
 cape,
+category:ine,
 coat,
 finger on trigger,
 fur collar,

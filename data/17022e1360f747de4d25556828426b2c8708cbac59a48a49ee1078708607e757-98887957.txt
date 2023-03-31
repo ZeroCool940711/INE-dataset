@@ -1,6 +1,7 @@
 1girl,
 blue eyes,
 boots,
+category:ine,
 dagger,
 fingerless gloves,
 forest,

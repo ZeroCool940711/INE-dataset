@@ -1,5 +1,6 @@
 1boy,
 beard,
+category:ine,
 coat,
 facial hair,
 full body,

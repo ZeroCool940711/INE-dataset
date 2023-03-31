@@ -1,4 +1,5 @@
 aqua background,
+category:ine,
 chalkboard,
 character:non-human admiral (kancolle),
 chips,

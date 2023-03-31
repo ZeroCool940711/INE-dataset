@@ -1,6 +1,7 @@
 1boy,
 bald,
 beard,
+category:ine,
 circle,
 crescent moon,
 egasumi,

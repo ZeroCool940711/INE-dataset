@@ -1,6 +1,7 @@
 1girl,
 beard,
 belt,
+category:ine,
 facial hair,
 fur trim,
 long hair,

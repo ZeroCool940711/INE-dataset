@@ -1,6 +1,7 @@
 1girl,
 assault rifle,
 building,
+category:ine,
 forest,
 grass,
 jacket,

@@ -2,6 +2,7 @@
 architecture,
 bridge,
 building,
+category:ine,
 city,
 cityscape,
 day,

@@ -2,6 +2,7 @@
 armor,
 artist name,
 boots,
+category:ine,
 full body,
 gloves,
 gradient,

@@ -1,6 +1,7 @@
 1other,
 burning,
 cape,
+category:ine,
 cloak,
 cloud,
 fire,

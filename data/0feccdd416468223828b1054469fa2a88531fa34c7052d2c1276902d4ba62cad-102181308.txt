@@ -1,6 +1,7 @@
 armor,
 bat wings,
 cape,
+category:ine,
 demon wings,
 dragon wings,
 full body,

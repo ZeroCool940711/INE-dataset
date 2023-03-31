@@ -1,5 +1,6 @@
 animal,
 bare tree,
+category:ine,
 forest,
 mountain,
 mountainous horizon,

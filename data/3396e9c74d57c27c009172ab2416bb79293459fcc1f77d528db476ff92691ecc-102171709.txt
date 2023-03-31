@@ -2,6 +2,7 @@
 armor,
 armored boots,
 boots,
+category:ine,
 full body,
 gauntlets,
 holding,

@@ -3,6 +3,7 @@
 black background,
 booru:danbooru,
 brown hair,
+category:ine,
 clothing:hair tie,
 clothing:japanese clothes,
 clothing:scarf,

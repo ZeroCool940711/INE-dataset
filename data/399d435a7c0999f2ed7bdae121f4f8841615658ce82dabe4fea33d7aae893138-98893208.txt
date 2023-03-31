@@ -2,6 +2,7 @@
 air bubble,
 aquarium,
 bubble,
+category:ine,
 diving,
 fish,
 freediving,

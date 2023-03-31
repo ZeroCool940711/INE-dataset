@@ -1,6 +1,7 @@
 astronaut,
 aurora,
 bubble,
+category:ine,
 city lights,
 cloud,
 constellation,

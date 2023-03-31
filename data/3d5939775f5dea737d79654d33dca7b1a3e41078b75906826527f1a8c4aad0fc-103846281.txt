@@ -2,6 +2,7 @@
 autumn leaves,
 bare tree,
 branch,
+category:ine,
 cherry blossoms,
 cloud,
 evening,

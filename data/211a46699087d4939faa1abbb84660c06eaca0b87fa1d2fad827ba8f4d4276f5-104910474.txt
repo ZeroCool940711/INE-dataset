@@ -1,6 +1,7 @@
 bamboo,
 bamboo forest,
 bare tree,
+category:ine,
 fire,
 forest,
 grass,

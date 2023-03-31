@@ -1,6 +1,7 @@
 anklet,
 artist name,
 brown hair,
+category:ine,
 crescent moon,
 dress,
 earrings,

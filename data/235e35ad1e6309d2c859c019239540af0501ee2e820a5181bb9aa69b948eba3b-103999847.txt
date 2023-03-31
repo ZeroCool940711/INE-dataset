@@ -1,5 +1,6 @@
 basket,
 cactus,
+category:ine,
 chair,
 flower,
 flower pot,

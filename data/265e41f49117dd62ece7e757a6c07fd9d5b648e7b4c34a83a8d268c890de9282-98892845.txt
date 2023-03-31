@@ -1,5 +1,6 @@
 armor,
 boat,
+category:ine,
 caustics,
 cave,
 electricity,

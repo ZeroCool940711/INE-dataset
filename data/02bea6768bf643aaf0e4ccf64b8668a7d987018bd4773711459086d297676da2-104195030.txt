@@ -1,5 +1,6 @@
 1girl,
 brown hair,
+category:ine,
 character:elezen,
 character:elvaan,
 character:lalafell,

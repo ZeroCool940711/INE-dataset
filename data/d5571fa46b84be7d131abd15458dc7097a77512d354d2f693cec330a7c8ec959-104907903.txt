@@ -1,4 +1,5 @@
 beach,
+category:ine,
 chateau,
 chateaugrief,
 creator:chateaugrief,

@@ -2,6 +2,7 @@
 armor,
 blue cape,
 cape,
+category:ine,
 fangs,
 furry,
 furry male,

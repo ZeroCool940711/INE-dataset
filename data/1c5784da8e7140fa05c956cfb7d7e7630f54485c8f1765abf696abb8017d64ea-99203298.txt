@@ -2,6 +2,7 @@
 ball,
 black legwear,
 brown hair,
+category:ine,
 chair,
 character name,
 character:moogle,

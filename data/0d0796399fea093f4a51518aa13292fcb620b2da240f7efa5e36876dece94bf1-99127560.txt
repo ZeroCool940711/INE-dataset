@@ -1,6 +1,7 @@
 aurora,
 bare tree,
 bird,
+category:ine,
 city lights,
 cloud,
 galaxy,

@@ -2,6 +2,7 @@
 air bubble,
 barefoot,
 beach,
+category:ine,
 colored skin,
 dress,
 long hair,

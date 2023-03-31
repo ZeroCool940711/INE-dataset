@@ -1,6 +1,7 @@
 artist name,
 blue flower,
 brown eyes,
+category:ine,
 flower,
 full body,
 hair flower,

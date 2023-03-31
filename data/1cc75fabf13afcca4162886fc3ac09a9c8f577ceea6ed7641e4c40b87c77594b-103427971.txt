@@ -2,6 +2,7 @@
 belt,
 boots,
 brown footwear,
+category:ine,
 cross-laced footwear,
 elf,
 full body,

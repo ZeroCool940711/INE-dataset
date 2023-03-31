@@ -2,6 +2,7 @@
 autumn leaves,
 black hair,
 blue sky,
+category:ine,
 cloud,
 cloudy sky,
 day,

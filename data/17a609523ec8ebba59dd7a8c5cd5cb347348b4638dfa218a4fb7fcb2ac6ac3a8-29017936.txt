@@ -1,6 +1,7 @@
 armor,
 bikini,
 bikini armor,
+category:ine,
 clothing:armor,
 clothing:bikini,
 clothing:swimsuit,

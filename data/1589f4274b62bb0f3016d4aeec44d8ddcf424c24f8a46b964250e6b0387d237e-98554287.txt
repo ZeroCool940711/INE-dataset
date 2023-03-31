@@ -1,5 +1,6 @@
 blue sky,
 building,
+category:ine,
 chimney,
 city,
 cloud,

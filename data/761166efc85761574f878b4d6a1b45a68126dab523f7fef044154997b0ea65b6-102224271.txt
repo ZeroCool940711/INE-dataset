@@ -2,6 +2,7 @@
 alternate history,
 army,
 assault rifle,
+category:ine,
 character,
 creator:ajay agrawal,
 cyberpunk,

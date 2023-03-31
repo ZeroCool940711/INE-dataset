@@ -1,6 +1,7 @@
 armor,
 axe,
 cape,
+category:ine,
 gauntlets,
 grey sky,
 helmet,

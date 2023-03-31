@@ -1,6 +1,7 @@
 1girl,
 armor,
 boots,
+category:ine,
 fingerless gloves,
 full body,
 hand on hip,

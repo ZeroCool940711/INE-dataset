@@ -1,5 +1,6 @@
 border,
 bridge,
+category:ine,
 clock,
 clock tower,
 fantasy,

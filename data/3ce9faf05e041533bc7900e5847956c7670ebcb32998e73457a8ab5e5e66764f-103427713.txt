@@ -2,6 +2,7 @@
 1girl,
 blonde hair,
 brooch,
+category:ine,
 character:mario,
 character:princess peach,
 crown,

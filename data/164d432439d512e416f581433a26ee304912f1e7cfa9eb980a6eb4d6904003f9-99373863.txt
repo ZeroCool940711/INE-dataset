@@ -2,6 +2,7 @@
 building,
 castle,
 cat,
+category:ine,
 city,
 full moon,
 glowing,

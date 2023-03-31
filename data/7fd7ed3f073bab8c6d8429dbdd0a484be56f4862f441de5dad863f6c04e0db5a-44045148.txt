@@ -1,4 +1,5 @@
 astronaut,
+category:ine,
 creator:guillaume menuel,
 desertic planet,
 exploration,

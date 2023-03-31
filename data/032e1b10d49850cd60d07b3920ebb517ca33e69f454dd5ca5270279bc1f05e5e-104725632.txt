@@ -2,6 +2,7 @@
 armor,
 artist name,
 cape,
+category:ine,
 gauntlets,
 helmet,
 holding,

@@ -1,5 +1,6 @@
 black border,
 bush,
+category:ine,
 day,
 flower,
 forest,

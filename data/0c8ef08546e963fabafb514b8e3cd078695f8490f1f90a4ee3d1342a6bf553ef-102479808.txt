@@ -2,6 +2,7 @@
 armor,
 blue fire,
 cape,
+category:ine,
 fire,
 flame,
 flaming sword,

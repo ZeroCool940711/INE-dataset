@@ -1,6 +1,7 @@
 1girl,
 bouquet,
 camellia,
+category:ine,
 cloud,
 flower,
 hair ornament,

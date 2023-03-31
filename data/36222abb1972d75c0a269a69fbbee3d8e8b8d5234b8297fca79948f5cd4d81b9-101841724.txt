@@ -2,6 +2,7 @@
 bee,
 belt,
 camera,
+category:ine,
 character:kazami yuuka,
 character:tanned cirno,
 coin,

@@ -1,6 +1,7 @@
 1boy,
 armor,
 bush,
+category:ine,
 day,
 forest,
 glowing,

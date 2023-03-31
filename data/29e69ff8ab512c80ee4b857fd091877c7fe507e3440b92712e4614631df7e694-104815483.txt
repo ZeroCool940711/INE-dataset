@@ -1,6 +1,7 @@
 1girl,
 artist name,
 building,
+category:ine,
 city,
 city lights,
 cityscape,

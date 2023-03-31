@@ -1,6 +1,7 @@
 blue sky,
 bush,
 castle,
+category:ine,
 cliff,
 cloud,
 cloudy sky,

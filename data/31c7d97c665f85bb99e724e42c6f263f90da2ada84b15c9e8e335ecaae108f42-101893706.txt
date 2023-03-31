@@ -2,6 +2,7 @@
 barefoot,
 bird,
 bush,
+category:ine,
 dandelion,
 day,
 dirty feet,

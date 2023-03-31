@@ -2,6 +2,7 @@
 baseball cap,
 black hair,
 book,
+category:ine,
 cigarette,
 hat,
 holding book,

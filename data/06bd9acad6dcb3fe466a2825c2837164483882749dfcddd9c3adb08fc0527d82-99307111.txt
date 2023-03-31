@@ -2,6 +2,7 @@
 black hair,
 book,
 bottle,
+category:ine,
 cellphone,
 computer,
 drawing tablet,

@@ -2,6 +2,7 @@
 animal,
 blonde hair,
 candle,
+category:ine,
 closed eyes,
 curtains,
 dress,

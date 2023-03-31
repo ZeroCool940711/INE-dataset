@@ -2,6 +2,7 @@
 abs,
 armpits,
 blonde hair,
+category:ine,
 dark skin,
 earrings,
 elf,

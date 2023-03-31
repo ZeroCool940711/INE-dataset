@@ -1,5 +1,6 @@
 armor,
 bookcover,
+category:ine,
 companion,
 conceptart,
 cover,

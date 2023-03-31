@@ -2,6 +2,7 @@
 artist name,
 black hair,
 book,
+category:ine,
 chain,
 electricity,
 fire,

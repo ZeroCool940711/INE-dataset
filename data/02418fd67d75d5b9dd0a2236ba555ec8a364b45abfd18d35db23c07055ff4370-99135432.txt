@@ -2,6 +2,7 @@
 artist name,
 bare tree,
 bird,
+category:ine,
 fantasy,
 lantern,
 light rays,

@@ -2,6 +2,7 @@
 architecture,
 building,
 castle,
+category:ine,
 city,
 cloud,
 cloudy sky,

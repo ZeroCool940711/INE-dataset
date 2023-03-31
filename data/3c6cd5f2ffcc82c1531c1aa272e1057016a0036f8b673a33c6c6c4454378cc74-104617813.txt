@@ -1,6 +1,7 @@
 angel,
 angel wings,
 artist name,
+category:ine,
 character:kishin sagume,
 feathered wings,
 feathers,

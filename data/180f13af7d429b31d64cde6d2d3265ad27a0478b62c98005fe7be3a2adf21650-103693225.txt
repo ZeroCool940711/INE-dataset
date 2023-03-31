@@ -2,6 +2,7 @@
 blue sky,
 blurry,
 brown hair,
+category:ine,
 cherry blossoms,
 cloud,
 confetti,

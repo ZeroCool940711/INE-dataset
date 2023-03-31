@@ -1,6 +1,7 @@
 aurora,
 burning,
 campfire,
+category:ine,
 city lights,
 embers,
 explosion,

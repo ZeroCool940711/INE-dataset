@@ -1,5 +1,6 @@
 armor,
 artist name,
+category:ine,
 full armor,
 full body,
 glowing,

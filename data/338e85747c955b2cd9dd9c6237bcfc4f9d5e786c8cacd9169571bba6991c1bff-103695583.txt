@@ -1,6 +1,7 @@
 :3,
 > <,
 brown eyes,
+category:ine,
 character:ash ketchum,
 character:bulbasaur,
 character:charmander,

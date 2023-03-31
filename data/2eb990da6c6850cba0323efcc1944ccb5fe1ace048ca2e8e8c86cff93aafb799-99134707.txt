@@ -1,6 +1,7 @@
 aurora,
 bug,
 butterfly,
+category:ine,
 glowing,
 jewelry,
 lantern,

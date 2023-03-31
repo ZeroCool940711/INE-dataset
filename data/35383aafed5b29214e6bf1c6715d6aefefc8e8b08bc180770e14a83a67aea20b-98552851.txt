@@ -1,5 +1,6 @@
 1boy,
 boots,
+category:ine,
 dark skin,
 electricity,
 full body,

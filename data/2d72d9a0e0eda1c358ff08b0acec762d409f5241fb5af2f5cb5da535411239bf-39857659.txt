@@ -1,4 +1,5 @@
 boat,
+category:ine,
 cave,
 cliff,
 creator:quentin regnes,

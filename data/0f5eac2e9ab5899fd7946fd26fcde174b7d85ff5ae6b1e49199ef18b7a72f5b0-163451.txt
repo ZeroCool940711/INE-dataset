@@ -1,8 +1,0 @@
-category:ine,
-english text,
-looking at viewer,
-rating:safe,
-subreddit:imaginaryfallout,
-subreddit:imfandoms,
-title:fallout bestiary - beaver,
-uploader:shia_drunkfu,

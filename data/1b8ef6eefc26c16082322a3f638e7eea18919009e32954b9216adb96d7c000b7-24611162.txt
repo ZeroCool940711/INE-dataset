@@ -2,6 +2,7 @@
 angel,
 angel wings,
 ass,
+category:ine,
 creator:soufiane idrassi,
 feathered wings,
 feathers,

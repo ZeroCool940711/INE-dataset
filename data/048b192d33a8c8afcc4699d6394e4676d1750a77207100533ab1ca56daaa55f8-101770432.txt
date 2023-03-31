@@ -1,4 +1,5 @@
 armor,
+category:ine,
 fake horns,
 full armor,
 gauntlets,

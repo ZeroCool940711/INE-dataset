@@ -2,6 +2,7 @@
 armor,
 beard,
 boots,
+category:ine,
 colored skin,
 facial hair,
 full body,

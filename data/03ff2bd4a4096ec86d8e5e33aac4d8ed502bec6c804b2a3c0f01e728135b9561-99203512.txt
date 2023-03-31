@@ -1,5 +1,6 @@
 1girl,
 acoustic guitar,
+category:ine,
 electric guitar,
 guitar,
 holding instrument,

@@ -1,4 +1,5 @@
 black hair,
+category:ine,
 character:serval (kemono friends),
 horizon,
 leopard print,

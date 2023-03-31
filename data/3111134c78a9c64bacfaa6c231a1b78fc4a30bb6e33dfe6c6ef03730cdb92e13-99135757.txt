@@ -1,6 +1,7 @@
 armor,
 building,
 castle,
+category:ine,
 cityscape,
 cloud,
 dusk,

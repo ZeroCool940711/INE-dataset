@@ -1,6 +1,7 @@
 bird,
 branch,
 bush,
+category:ine,
 deer,
 fantasy,
 forest,

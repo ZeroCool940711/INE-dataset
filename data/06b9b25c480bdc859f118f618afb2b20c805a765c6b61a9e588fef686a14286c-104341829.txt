@@ -2,6 +2,7 @@
 arms at sides,
 black eyes,
 black hair,
+category:ine,
 cowboy shot,
 holding,
 holding sword,

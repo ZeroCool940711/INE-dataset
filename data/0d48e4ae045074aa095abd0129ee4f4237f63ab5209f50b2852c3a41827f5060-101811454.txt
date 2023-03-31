@@ -1,6 +1,7 @@
 1boy,
 blue sky,
 bush,
+category:ine,
 cloud,
 day,
 fish,

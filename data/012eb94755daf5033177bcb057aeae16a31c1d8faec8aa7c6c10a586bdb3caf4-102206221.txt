@@ -1,6 +1,7 @@
 1980s (style),
 aurora,
 beam rifle,
+category:ine,
 city lights,
 cloud,
 earth (planet),

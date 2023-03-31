@@ -1,6 +1,7 @@
 armor,
 axe,
 beach,
+category:ine,
 cloud,
 desert,
 holding,

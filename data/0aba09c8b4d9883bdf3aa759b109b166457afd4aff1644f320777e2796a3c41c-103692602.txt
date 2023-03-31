@@ -2,6 +2,7 @@
 armor,
 black hair,
 boots,
+category:ine,
 full body,
 fur trim,
 gloves,

@@ -1,5 +1,6 @@
 1boy,
 blue fire,
+category:ine,
 crescent moon,
 fire,
 flame,

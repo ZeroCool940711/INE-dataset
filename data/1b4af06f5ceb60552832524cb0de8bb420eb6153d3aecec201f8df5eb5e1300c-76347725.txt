@@ -1,4 +1,5 @@
 anthropomorphic,
+category:ine,
 characterart,
 characterdesign,
 concept art,

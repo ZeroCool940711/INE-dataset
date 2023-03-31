@@ -1,5 +1,6 @@
 battle,
 beach,
+category:ine,
 damaged,
 desert,
 dirty,

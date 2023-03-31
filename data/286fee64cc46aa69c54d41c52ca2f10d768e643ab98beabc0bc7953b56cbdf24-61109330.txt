@@ -1,5 +1,6 @@
 anthro,
 breasts,
+category:ine,
 clothing,
 creator:m1ken,
 creator:np4tch,

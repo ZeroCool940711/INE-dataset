@@ -2,6 +2,7 @@
 armor,
 artist name,
 belt,
+category:ine,
 dated,
 goggles,
 goggles on head,

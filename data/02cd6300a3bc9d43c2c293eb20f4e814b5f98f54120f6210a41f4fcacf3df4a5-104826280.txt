@@ -2,6 +2,7 @@
 bare tree,
 branch,
 castle,
+category:ine,
 forest,
 moon,
 mountain,

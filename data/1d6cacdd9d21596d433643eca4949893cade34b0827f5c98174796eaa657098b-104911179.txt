@@ -1,6 +1,7 @@
 1girl,
 black background,
 black headwear,
+category:ine,
 coat,
 from side,
 gloves,

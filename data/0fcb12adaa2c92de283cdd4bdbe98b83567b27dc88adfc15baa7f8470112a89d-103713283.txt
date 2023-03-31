@@ -1,6 +1,7 @@
 1980s (style),
 bald,
 beard,
+category:ine,
 cover,
 cyberpunk,
 cyrillic,

@@ -1,6 +1,7 @@
 1girl,
 black hair,
 breasts,
+category:ine,
 creator:sangsoo jeong,
 long hair,
 medium:digital 2d,

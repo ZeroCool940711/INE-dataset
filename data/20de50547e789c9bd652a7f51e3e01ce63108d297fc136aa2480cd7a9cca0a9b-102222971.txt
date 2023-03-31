@@ -2,6 +2,7 @@
 1girl,
 black pants,
 blue hair,
+category:ine,
 earrings,
 glasses,
 gloves,

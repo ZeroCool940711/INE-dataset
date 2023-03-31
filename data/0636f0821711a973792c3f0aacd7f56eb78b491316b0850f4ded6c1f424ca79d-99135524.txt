@@ -1,5 +1,6 @@
 architecture,
 castle,
+category:ine,
 chimney,
 cloud,
 cloudy sky,

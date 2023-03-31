@@ -2,6 +2,7 @@
 bat wings,
 black border,
 breathing fire,
+category:ine,
 character:charizard,
 dragon,
 fangs,

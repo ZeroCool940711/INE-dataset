@@ -1,6 +1,7 @@
 artwork,
 beach,
 boat,
+category:ine,
 cloud,
 cloudy sky,
 day,

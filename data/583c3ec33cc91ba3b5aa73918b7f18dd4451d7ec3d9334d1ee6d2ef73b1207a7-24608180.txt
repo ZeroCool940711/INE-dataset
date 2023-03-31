@@ -1,5 +1,6 @@
 armor,
 art,
+category:ine,
 character design,
 character:akira kimura,
 character:elisabeth jaeger,

@@ -3,6 +3,7 @@
 arm cannon,
 assault rifle,
 blonde hair,
+category:ine,
 character:samus aran,
 glowing,
 gun,

@@ -2,6 +2,7 @@
 animal,
 artist name,
 braid,
+category:ine,
 crown braid,
 dated,
 french braid,

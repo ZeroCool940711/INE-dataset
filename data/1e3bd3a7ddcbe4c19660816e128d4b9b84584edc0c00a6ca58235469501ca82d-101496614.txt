@@ -1,6 +1,7 @@
 1girl,
 armor,
 burning,
+category:ine,
 embers,
 fire,
 flame,

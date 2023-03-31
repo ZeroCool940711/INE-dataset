@@ -2,6 +2,7 @@
 antlers,
 astronaut,
 aurora,
+category:ine,
 city lights,
 constellation,
 earth (planet),

@@ -2,6 +2,7 @@
 aerial fireworks,
 aurora,
 campfire,
+category:ine,
 city lights,
 cloud,
 constellation,

@@ -1,6 +1,7 @@
 battle,
 breathing fire,
 burning,
+category:ine,
 character:godzilla,
 city,
 claws,

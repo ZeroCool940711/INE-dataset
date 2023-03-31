@@ -1,6 +1,7 @@
 1girl,
 artist name,
 black hair,
+category:ine,
 forehead,
 hand on own cheek,
 hand on own face,

@@ -1,5 +1,6 @@
 1boy,
 border,
+category:ine,
 energy sword,
 glowing weapon,
 holding,

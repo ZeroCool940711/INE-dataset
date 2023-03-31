@@ -1,6 +1,7 @@
 1girl,
 armor,
 blue skin,
+category:ine,
 colored skin,
 creator:june jenssen,
 earrings,

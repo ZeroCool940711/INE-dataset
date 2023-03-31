@@ -1,6 +1,7 @@
 bare tree,
 beach,
 building,
+category:ine,
 city,
 cloud,
 cloudy sky,

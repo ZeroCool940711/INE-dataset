@@ -1,5 +1,6 @@
 1girl,
 black hair,
+category:ine,
 closed eyes,
 colored skin,
 curly hair,

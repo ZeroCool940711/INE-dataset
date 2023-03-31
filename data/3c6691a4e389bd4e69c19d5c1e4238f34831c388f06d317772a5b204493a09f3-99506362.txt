@@ -1,5 +1,6 @@
 beach,
 blue sky,
+category:ine,
 cloud,
 cloudy sky,
 day,

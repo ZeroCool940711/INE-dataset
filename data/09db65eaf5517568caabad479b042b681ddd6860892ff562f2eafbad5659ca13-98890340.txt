@@ -1,6 +1,7 @@
 astronaut,
 aurora,
 campfire,
+category:ine,
 city lights,
 cloud,
 constellation,

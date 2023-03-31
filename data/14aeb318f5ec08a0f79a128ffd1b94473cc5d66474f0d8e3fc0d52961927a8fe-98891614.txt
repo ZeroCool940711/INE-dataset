@@ -1,6 +1,7 @@
 1girl,
 blonde hair,
 border,
+category:ine,
 character:flandre scarlet,
 crystal,
 grey background,

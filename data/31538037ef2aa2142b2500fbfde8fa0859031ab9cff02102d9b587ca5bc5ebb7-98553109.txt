@@ -1,6 +1,7 @@
 6+boys,
 army,
 castle,
+category:ine,
 cloud,
 desert,
 dusk,

@@ -1,6 +1,7 @@
 1girl,
 armor,
 breasts,
+category:ine,
 facepaint,
 facial tattoo,
 full body,

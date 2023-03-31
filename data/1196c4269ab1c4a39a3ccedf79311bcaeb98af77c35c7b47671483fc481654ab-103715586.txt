@@ -2,6 +2,7 @@
 black hair,
 blue hair,
 blue nails,
+category:ine,
 closed eyes,
 dark skin,
 earrings,

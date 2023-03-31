@@ -1,6 +1,7 @@
 1girl,
 alcohol,
 blonde hair,
+category:ine,
 cup,
 drinking glass,
 lying,

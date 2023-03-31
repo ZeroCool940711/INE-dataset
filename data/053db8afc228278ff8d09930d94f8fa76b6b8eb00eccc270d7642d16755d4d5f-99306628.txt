@@ -1,5 +1,6 @@
 aurora,
 beach,
+category:ine,
 city lights,
 cloud,
 constellation,

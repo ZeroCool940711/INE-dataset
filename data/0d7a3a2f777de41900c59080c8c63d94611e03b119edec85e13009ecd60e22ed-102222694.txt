@@ -1,6 +1,7 @@
 1boy,
 armor,
 artist name,
+category:ine,
 full armor,
 full body,
 gauntlets,

@@ -1,6 +1,7 @@
 beach,
 bird,
 boat,
+category:ine,
 caustics,
 cave,
 cloud,

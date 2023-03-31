@@ -1,6 +1,7 @@
 balloon,
 beach,
 boat,
+category:ine,
 cloud,
 earth (planet),
 full moon,

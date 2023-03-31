@@ -1,6 +1,7 @@
 1boy,
 artist name,
 cape,
+category:ine,
 cloud,
 cloudy sky,
 coat,

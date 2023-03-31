@@ -1,3 +1,4 @@
+category:ine,
 character:venom (marvel),
 comic,
 cover,

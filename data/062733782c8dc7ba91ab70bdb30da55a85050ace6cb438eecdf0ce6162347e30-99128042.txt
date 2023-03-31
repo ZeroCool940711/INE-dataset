@@ -1,6 +1,7 @@
 architecture,
 building,
 bush,
+category:ine,
 city,
 day,
 east asian architecture,

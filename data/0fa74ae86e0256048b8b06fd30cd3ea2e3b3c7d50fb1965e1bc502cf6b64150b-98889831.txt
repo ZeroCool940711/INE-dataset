@@ -1,6 +1,7 @@
 aura,
 blue fire,
 breathing fire,
+category:ine,
 electricity,
 energy,
 energy ball,

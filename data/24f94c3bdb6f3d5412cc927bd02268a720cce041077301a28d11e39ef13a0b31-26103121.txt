@@ -1,6 +1,7 @@
 arleyna,
 artwork,
 beautiful,
+category:ine,
 corset,
 creator:ina wong (ina murwani prasetyaningrum),
 cute,

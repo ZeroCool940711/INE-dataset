@@ -1,6 +1,7 @@
 branch,
 building,
 bush,
+category:ine,
 damaged,
 forest,
 glowing,

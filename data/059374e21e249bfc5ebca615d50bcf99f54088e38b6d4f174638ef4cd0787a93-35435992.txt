@@ -1,6 +1,7 @@
 air bubble,
 boat,
 bubble,
+category:ine,
 caustics,
 character:link,
 creator:bjorn hurri,

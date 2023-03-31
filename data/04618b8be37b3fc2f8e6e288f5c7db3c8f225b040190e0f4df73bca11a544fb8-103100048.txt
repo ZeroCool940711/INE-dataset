@@ -2,6 +2,7 @@
 armor,
 battle,
 cape,
+category:ine,
 field,
 fighting stance,
 forest,

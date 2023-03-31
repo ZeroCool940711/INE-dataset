@@ -1,6 +1,7 @@
 1girl,
 armor,
 artist name,
+category:ine,
 helmet,
 japanese armor,
 kabuto,

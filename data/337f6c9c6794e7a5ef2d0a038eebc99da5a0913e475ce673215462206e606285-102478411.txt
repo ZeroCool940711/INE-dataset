@@ -2,6 +2,7 @@
 artist name,
 bare shoulders,
 breasts,
+category:ine,
 colored skin,
 dress,
 floating hair,

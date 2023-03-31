@@ -2,6 +2,7 @@
 1other,
 armor,
 axe,
+category:ine,
 full armor,
 helmet,
 holding,

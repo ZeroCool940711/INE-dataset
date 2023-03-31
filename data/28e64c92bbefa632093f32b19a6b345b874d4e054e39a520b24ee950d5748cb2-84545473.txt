@@ -2,6 +2,7 @@
 armor,
 artist name,
 blonde hair,
+category:ine,
 creator:ruan jia,
 flag,
 full armor,

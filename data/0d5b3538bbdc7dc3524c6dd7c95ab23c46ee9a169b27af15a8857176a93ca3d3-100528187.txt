@@ -1,6 +1,7 @@
 1girl,
 arms at sides,
 black hair,
+category:ine,
 full body,
 gradient,
 lipstick,

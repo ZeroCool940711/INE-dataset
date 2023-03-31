@@ -1,4 +1,5 @@
 battle,
+category:ine,
 damaged,
 dirty,
 field,

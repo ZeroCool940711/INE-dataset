@@ -1,6 +1,7 @@
 aircraft,
 artist name,
 building,
+category:ine,
 city,
 cityscape,
 cloud,

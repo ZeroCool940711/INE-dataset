@@ -1,6 +1,7 @@
 autumn,
 autumn leaves,
 burning,
+category:ine,
 colorful,
 field,
 fire,

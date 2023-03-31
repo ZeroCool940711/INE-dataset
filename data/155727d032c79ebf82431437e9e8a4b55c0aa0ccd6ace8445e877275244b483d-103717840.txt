@@ -1,6 +1,7 @@
 1boy,
 abs,
 black hair,
+category:ine,
 elf,
 green eyes,
 long hair,

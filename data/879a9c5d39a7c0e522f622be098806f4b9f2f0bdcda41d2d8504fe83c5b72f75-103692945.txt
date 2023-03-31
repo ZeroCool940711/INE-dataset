@@ -1,4 +1,5 @@
 bulbasaur,
+category:ine,
 charmander,
 cleffairy,
 creator:starsoulart,

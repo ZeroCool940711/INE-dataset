@@ -2,6 +2,7 @@
 armor,
 bare tree,
 branch,
+category:ine,
 forest,
 holding,
 holding weapon,

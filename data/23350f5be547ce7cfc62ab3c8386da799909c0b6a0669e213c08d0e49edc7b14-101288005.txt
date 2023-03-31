@@ -2,6 +2,7 @@
 ahoge,
 bangs,
 bishounen,
+category:ine,
 center frills,
 character:merlin (fate),
 cherry blossoms,

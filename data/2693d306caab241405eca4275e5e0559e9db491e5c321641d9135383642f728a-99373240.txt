@@ -1,6 +1,7 @@
 1boy,
 artist name,
 bird,
+category:ine,
 cloud,
 cloudy sky,
 coat,

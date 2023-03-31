@@ -1,5 +1,6 @@
 2d,
 artwork,
+category:ine,
 clothing:japanese clothes,
 clothing:kimono,
 drawing,

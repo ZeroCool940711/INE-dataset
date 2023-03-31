@@ -1,6 +1,7 @@
 aiming,
 arrow (projectile),
 bow (weapon),
+category:ine,
 character:link,
 forest,
 grass,

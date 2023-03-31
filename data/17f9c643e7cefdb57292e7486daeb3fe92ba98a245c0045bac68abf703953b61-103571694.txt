@@ -1,5 +1,6 @@
 battle,
 burning,
+category:ine,
 cloud,
 damaged,
 explosion,

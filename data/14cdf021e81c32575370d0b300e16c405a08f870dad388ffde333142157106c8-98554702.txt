@@ -3,6 +3,7 @@
 breathing fire,
 burning,
 campfire,
+category:ine,
 cloud,
 cloudy sky,
 dusk,

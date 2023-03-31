@@ -1,6 +1,7 @@
 blue theme,
 bridge,
 building,
+category:ine,
 city,
 cityscape,
 cloud,

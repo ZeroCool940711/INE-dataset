@@ -1,6 +1,7 @@
 1girl,
 armor,
 cape,
+category:ine,
 full body,
 fur trim,
 grey background,

@@ -1,6 +1,7 @@
 1girl,
 bamboo,
 bamboo forest,
+category:ine,
 day,
 forest,
 light rays,

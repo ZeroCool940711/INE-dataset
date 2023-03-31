@@ -2,6 +2,7 @@
 armor,
 boots,
 breasts,
+category:ine,
 cleavage,
 long hair,
 medium breasts,

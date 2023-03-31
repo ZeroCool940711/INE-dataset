@@ -2,6 +2,7 @@
 arrow (projectile),
 boots,
 bow (weapon),
+category:ine,
 elf,
 flower,
 forest,

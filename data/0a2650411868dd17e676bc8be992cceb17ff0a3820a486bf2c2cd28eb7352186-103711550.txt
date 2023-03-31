@@ -1,5 +1,6 @@
 brown eyes,
 brown hair,
+category:ine,
 couch,
 grass,
 hood,

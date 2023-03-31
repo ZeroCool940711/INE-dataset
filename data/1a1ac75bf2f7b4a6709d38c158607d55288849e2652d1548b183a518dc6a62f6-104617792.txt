@@ -1,5 +1,6 @@
 1boy,
 armor,
+category:ine,
 dual wielding,
 facial hair,
 feather trim,

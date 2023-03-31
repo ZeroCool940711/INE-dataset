@@ -1,4 +1,5 @@
 architecture,
+category:ine,
 gun,
 outdoors,
 rating:safe,

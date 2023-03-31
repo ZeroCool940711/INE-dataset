@@ -1,5 +1,6 @@
 1girl,
 aircraft,
+category:ine,
 fur collar,
 fur trim,
 gloves,

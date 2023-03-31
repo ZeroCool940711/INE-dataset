@@ -1,6 +1,7 @@
 beach,
 building,
 campfire,
+category:ine,
 city,
 city lights,
 cityscape,

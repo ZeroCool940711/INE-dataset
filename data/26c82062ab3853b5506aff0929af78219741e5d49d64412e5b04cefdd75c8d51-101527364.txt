@@ -2,6 +2,7 @@
 armor,
 artist name,
 cape,
+category:ine,
 dual wielding,
 full moon,
 gauntlets,

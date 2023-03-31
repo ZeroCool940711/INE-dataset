@@ -2,6 +2,7 @@
 beach,
 bird,
 building,
+category:ine,
 city,
 cloud,
 cloudy sky,

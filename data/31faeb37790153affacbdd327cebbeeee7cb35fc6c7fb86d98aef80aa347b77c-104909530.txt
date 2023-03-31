@@ -1,5 +1,6 @@
 beach,
 cannon,
+category:ine,
 cloud,
 desert,
 earth (planet),

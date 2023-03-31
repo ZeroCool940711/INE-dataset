@@ -1,6 +1,7 @@
 1girl,
 bird,
 bracelet,
+category:ine,
 earrings,
 flower,
 green eyes,

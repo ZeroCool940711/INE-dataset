@@ -1,6 +1,7 @@
 artist name,
 aurora,
 blue fire,
+category:ine,
 constellation,
 dated,
 earth (planet),

@@ -2,6 +2,7 @@
 belt,
 black gloves,
 blonde hair,
+category:ine,
 constellation,
 glasses,
 gloves,

@@ -2,6 +2,7 @@
 armor,
 belt,
 cape,
+category:ine,
 full body,
 gauntlets,
 helmet,

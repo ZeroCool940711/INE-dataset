@@ -2,6 +2,7 @@
 artist name,
 beach,
 boat,
+category:ine,
 grey sky,
 horizon,
 jewelry,

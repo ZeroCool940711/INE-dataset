@@ -1,5 +1,6 @@
 beach,
 boat,
+category:ine,
 earth (planet),
 glowing,
 gun,

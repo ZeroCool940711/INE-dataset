@@ -1,6 +1,7 @@
 1girl,
 black border,
 boat,
+category:ine,
 cliff,
 cloud,
 cloudy sky,

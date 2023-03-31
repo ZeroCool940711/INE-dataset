@@ -1,6 +1,7 @@
 1boy,
 armor,
 beard,
+category:ine,
 facial hair,
 fire,
 flame,

@@ -1,5 +1,6 @@
 bird,
 bush,
+category:ine,
 fantasy,
 forest,
 grass,

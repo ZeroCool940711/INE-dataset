@@ -1,6 +1,7 @@
 aurora,
 bare tree,
 branch,
+category:ine,
 chain-link fence,
 city lights,
 crescent moon,

@@ -1,6 +1,7 @@
 animal,
 bird,
 bush,
+category:ine,
 cloud,
 dated,
 day,

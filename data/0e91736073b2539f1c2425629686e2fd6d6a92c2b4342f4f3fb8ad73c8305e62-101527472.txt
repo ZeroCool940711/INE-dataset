@@ -1,6 +1,7 @@
 ambiguous gender,
 armor,
 beach,
+category:ine,
 coat,
 desert,
 dust,

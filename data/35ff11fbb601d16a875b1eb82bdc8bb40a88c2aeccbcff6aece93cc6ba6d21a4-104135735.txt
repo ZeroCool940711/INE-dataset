@@ -2,6 +2,7 @@
 armor,
 beard,
 cape,
+category:ine,
 facial hair,
 full moon,
 holding,

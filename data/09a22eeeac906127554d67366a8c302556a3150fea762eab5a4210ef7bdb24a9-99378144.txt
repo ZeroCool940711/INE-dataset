@@ -1,5 +1,6 @@
 1boy,
 bush,
+category:ine,
 grass,
 guitar,
 gun,

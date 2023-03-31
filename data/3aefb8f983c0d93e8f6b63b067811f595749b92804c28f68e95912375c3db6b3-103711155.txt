@@ -2,6 +2,7 @@
 assault rifle,
 axe,
 battle,
+category:ine,
 explosion,
 fire,
 firing,

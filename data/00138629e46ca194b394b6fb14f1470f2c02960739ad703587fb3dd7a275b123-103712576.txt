@@ -1,6 +1,7 @@
 1boy,
 abs,
 brown hair,
+category:ine,
 character:elezen,
 curtains,
 elf,

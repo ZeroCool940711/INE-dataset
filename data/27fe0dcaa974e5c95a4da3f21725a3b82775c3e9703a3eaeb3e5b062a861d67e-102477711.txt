@@ -2,6 +2,7 @@
 black coat,
 black footwear,
 boots,
+category:ine,
 coat,
 full body,
 gradient,

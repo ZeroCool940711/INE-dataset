@@ -1,5 +1,6 @@
 beach,
 boat,
+category:ine,
 cave,
 cloud,
 cloudy sky,

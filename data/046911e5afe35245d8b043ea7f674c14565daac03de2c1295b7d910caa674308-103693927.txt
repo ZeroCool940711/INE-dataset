@@ -1,5 +1,6 @@
 1boy,
 beard,
+category:ine,
 curly hair,
 facial hair,
 holding instrument,

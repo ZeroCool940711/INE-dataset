@@ -1,3 +1,4 @@
+category:ine,
 earth (planet),
 military,
 military vehicle,

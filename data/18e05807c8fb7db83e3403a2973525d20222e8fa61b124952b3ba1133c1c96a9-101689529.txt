@@ -2,6 +2,7 @@
 armor,
 belt,
 boots,
+category:ine,
 full body,
 helmet,
 holding,

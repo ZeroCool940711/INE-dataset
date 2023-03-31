@@ -1,5 +1,6 @@
 autumn,
 building,
+category:ine,
 circle,
 city,
 cloud,

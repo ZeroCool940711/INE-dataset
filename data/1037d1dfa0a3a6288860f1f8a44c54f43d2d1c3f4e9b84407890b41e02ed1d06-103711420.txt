@@ -1,5 +1,6 @@
 black nails,
 blue nails,
+category:ine,
 claws,
 fangs,
 green nails,

@@ -1,6 +1,7 @@
 1boy,
 1girl,
 brown hair,
+category:ine,
 energy sword,
 grass,
 holding sword,

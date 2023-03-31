@@ -1,6 +1,7 @@
 aircraft,
 bridge,
 building,
+category:ine,
 city,
 city lights,
 cityscape,

@@ -1,6 +1,7 @@
 armor,
 artist name,
 axe,
+category:ine,
 gauntlets,
 holding,
 holding sword,

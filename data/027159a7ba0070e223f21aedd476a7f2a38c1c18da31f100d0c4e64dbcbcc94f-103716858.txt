@@ -1,5 +1,6 @@
 alien,
 astronaut,
+category:ine,
 earth (planet),
 galaxy,
 glowing,

@@ -1,4 +1,5 @@
 adventure,
+category:ine,
 creator:sylvain sarrailh,
 forest,
 journey,

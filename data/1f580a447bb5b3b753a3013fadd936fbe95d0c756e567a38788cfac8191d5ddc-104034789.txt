@@ -1,5 +1,6 @@
 brown hair,
 cape,
+category:ine,
 character:ruby rose,
 confetti,
 diffraction spikes,

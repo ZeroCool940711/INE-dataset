@@ -3,6 +3,7 @@
 animal ears,
 booru:sankaku channel,
 bow,
+category:ine,
 clothing:japanese clothes,
 clothing:kimono,
 clothing:yellow bow,

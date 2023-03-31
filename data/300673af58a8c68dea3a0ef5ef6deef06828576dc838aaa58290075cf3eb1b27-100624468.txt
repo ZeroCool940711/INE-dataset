@@ -2,6 +2,7 @@
 armor,
 bikini armor,
 breasts,
+category:ine,
 elf,
 embers,
 fire,

@@ -2,6 +2,7 @@
 armor,
 black background,
 boots,
+category:ine,
 full body,
 gauntlets,
 helmet,

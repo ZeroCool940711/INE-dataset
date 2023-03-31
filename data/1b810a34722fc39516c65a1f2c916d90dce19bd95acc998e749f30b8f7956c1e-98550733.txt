@@ -1,6 +1,7 @@
 1boy,
 apron,
 black background,
+category:ine,
 facial hair,
 glasses,
 green apron,

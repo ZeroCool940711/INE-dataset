@@ -1,6 +1,7 @@
 aiming,
 ammunition belt,
 assault rifle,
+category:ine,
 gatling gun,
 grey background,
 ground vehicle,

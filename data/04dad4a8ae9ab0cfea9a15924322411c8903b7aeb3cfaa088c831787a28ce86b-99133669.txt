@@ -1,4 +1,5 @@
 assault rifle,
+category:ine,
 day,
 gun,
 holding gun,

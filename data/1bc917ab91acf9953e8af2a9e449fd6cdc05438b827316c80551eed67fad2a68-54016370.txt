@@ -2,6 +2,7 @@
 armlet,
 bangle,
 bracelet,
+category:ine,
 holding,
 jewelry,
 lips,

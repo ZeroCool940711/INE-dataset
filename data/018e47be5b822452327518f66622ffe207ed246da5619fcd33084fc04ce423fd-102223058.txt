@@ -1,5 +1,6 @@
 1boy,
 beard,
+category:ine,
 crown,
 facial hair,
 jewelry,

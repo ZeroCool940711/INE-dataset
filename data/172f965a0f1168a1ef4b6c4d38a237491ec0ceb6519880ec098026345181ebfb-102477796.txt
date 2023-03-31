@@ -2,6 +2,7 @@
 artist name,
 bat wings,
 brown background,
+category:ine,
 claws,
 colored sclera,
 colored skin,

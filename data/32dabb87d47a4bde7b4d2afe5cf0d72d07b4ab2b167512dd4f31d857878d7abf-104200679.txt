@@ -1,6 +1,7 @@
 aurora,
 beach,
 boat,
+category:ine,
 city lights,
 cloud,
 constellation,

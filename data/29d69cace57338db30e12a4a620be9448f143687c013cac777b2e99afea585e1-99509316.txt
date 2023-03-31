@@ -3,6 +3,7 @@
 boots,
 brown eyes,
 brown hair,
+category:ine,
 dress,
 food,
 long hair,

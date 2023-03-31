@@ -2,6 +2,7 @@
 angel,
 angel wings,
 blue eyes,
+category:ine,
 character:mercy (overwatch),
 dress,
 energy sword,

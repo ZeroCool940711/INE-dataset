@@ -1,3 +1,4 @@
+category:ine,
 character:captain marvel,
 character:carnage (marvel),
 character:carol susan jane "captain marvel" danvers,

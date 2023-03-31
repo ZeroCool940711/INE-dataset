@@ -1,6 +1,7 @@
 bare tree,
 bird,
 branch,
+category:ine,
 cloud,
 cloudy sky,
 forest,

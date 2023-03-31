@@ -1,6 +1,7 @@
 1boy,
 arm tattoo,
 bodypaint,
+category:ine,
 chest tattoo,
 facepaint,
 facial mark,

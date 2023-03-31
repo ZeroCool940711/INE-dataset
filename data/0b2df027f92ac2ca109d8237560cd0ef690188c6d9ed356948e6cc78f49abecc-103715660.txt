@@ -1,6 +1,7 @@
 bare tree,
 building,
 bush,
+category:ine,
 city,
 city lights,
 cloud,

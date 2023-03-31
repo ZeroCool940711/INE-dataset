@@ -2,6 +2,7 @@
 artist name,
 bare shoulders,
 breasts,
+category:ine,
 cleavage,
 elf,
 freckles,

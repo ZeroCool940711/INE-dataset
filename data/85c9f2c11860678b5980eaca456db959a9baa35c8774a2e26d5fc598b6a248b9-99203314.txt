@@ -1,5 +1,6 @@
 aircraft,
 burning,
+category:ine,
 city,
 cloud,
 cloudy sky,

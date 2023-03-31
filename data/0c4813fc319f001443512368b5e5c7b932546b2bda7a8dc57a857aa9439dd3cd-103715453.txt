@@ -1,6 +1,7 @@
 beard,
 blonde hair,
 bow (weapon),
+category:ine,
 cloud,
 field,
 fire,

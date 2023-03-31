@@ -1,5 +1,6 @@
 bird,
 building,
+category:ine,
 city,
 cliff,
 cloud,

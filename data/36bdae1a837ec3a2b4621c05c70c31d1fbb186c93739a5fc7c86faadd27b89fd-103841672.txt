@@ -2,6 +2,7 @@
 blue sky,
 building,
 bush,
+category:ine,
 cloud,
 cloudy sky,
 day,

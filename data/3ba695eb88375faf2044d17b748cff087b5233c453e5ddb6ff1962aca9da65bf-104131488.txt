@@ -2,6 +2,7 @@
 alien,
 astronaut,
 aurora,
+category:ine,
 city,
 city lights,
 cloud,

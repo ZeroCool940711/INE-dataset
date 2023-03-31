@@ -1,6 +1,7 @@
 artwork,
 blonde hair,
 blue eyes,
+category:ine,
 character:jeanne d'arc,
 clothing:armor,
 fantasy art,

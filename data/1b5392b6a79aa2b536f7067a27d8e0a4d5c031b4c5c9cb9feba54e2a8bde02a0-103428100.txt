@@ -1,5 +1,6 @@
 aurora,
 bare tree,
+category:ine,
 city lights,
 cloud,
 dark,

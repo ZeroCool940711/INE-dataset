@@ -1,6 +1,7 @@
 1girl,
 6+boys,
 building,
+category:ine,
 cherry blossoms,
 confetti,
 crowd,

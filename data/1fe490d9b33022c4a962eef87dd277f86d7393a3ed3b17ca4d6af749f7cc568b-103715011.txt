@@ -1,6 +1,7 @@
 1girl,
 black hair,
 brown eyes,
+category:ine,
 face,
 lips,
 lipstick,

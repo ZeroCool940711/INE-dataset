@@ -1,5 +1,6 @@
 bat wings,
 blood,
+category:ine,
 claws,
 demon,
 demon boy,

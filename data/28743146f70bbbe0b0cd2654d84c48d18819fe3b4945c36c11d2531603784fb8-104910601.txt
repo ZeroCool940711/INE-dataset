@@ -1,6 +1,7 @@
 bandana,
 blue sky,
 boat,
+category:ine,
 cloud,
 day,
 ocean,

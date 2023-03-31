@@ -2,6 +2,7 @@
 armor,
 blue eyes,
 breasts,
+category:ine,
 elf,
 facepaint,
 facial mark,

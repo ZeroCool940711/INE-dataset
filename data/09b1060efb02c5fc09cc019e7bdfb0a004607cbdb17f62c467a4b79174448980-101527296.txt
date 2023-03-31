@@ -2,6 +2,7 @@
 black border,
 bottle,
 cat,
+category:ine,
 chair,
 clock,
 cup,

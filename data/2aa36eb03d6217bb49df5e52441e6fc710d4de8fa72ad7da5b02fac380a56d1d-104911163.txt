@@ -1,5 +1,6 @@
 1girl,
 animal,
+category:ine,
 dress,
 fish,
 graphite (medium),

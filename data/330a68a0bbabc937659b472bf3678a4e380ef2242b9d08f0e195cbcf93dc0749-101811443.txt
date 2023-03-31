@@ -4,6 +4,7 @@
 barefoot,
 blonde hair,
 bowl,
+category:ine,
 forest,
 grass,
 hat,

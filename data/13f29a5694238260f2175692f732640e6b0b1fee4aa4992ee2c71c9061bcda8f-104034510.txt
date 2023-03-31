@@ -1,6 +1,7 @@
 1boy,
 1girl,
 bracelet,
+category:ine,
 cloud,
 colored skin,
 day,

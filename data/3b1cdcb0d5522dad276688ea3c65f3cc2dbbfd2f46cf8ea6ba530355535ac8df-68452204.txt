@@ -1,8 +1,0 @@
-album cover,
-english text,
-rating:safe,
-simple background,
-subreddit:imaginarycolorscapes,
-subreddit:immeta,
-title:eye tunnel , painting,
-uploader:stephenferris,

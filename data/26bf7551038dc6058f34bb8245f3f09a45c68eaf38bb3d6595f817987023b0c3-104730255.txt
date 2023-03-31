@@ -2,6 +2,7 @@
 armor,
 breastplate,
 breasts,
+category:ine,
 dual wielding,
 full body,
 gauntlets,

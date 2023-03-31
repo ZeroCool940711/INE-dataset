@@ -1,5 +1,6 @@
 artwork,
 brown hair,
+category:ine,
 clothing:hair tie,
 clothing:thigh-highs,
 crossbow,

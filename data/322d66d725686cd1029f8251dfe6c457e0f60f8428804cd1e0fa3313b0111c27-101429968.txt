@@ -1,6 +1,7 @@
 animal,
 brown hair,
 cat,
+category:ine,
 colored skin,
 dog,
 elf,

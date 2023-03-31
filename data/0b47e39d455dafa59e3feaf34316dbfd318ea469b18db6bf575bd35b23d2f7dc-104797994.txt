@@ -2,6 +2,7 @@
 antlers,
 armor,
 breastplate,
+category:ine,
 faulds,
 field,
 full armor,

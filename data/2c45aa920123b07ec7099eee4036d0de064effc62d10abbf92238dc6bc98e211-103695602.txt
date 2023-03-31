@@ -1,6 +1,7 @@
 1boy,
 artist name,
 campfire,
+category:ine,
 closed eyes,
 cloud,
 cloudy sky,

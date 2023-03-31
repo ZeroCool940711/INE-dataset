@@ -2,6 +2,7 @@
 america,
 american flag,
 beard,
+category:ine,
 facial hair,
 flag background,
 hammer and sickle,

@@ -1,5 +1,6 @@
 1girl,
 artist name,
+category:ine,
 colored skin,
 glowing,
 glowing eyes,

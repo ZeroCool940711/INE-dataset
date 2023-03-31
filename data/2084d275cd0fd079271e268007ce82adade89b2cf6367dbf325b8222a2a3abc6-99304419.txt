@@ -1,5 +1,6 @@
 1girl,
 blonde hair,
+category:ine,
 coat,
 cowboy hat,
 cowboy western,

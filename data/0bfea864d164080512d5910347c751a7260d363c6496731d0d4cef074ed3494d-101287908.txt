@@ -1,6 +1,7 @@
 architecture,
 bridge,
 building,
+category:ine,
 east asian architecture,
 japanese clothes,
 kimono,

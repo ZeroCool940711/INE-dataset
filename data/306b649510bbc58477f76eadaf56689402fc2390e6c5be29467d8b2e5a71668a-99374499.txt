@@ -1,6 +1,7 @@
 1girl,
 blonde hair,
 brown eyes,
+category:ine,
 earrings,
 flower,
 forest,

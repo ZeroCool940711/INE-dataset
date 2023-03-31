@@ -1,5 +1,6 @@
 black border,
 border,
+category:ine,
 caterpillar tracks,
 cloud,
 cloudy sky,

@@ -1,6 +1,7 @@
 1boy,
 armor,
 cape,
+category:ine,
 embers,
 fire,
 full body,

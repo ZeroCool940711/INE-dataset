@@ -1,6 +1,7 @@
 assault rifle,
 battle,
 beach,
+category:ine,
 cloud,
 desert,
 dusk,

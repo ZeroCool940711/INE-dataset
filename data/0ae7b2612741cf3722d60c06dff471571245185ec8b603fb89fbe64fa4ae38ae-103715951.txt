@@ -1,6 +1,7 @@
 1other,
 blue sky,
 castle,
+category:ine,
 cliff,
 cloud,
 cloudy sky,
