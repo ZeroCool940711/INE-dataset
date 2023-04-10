@@ -2,6 +2,7 @@
 ass,
 black hair,
 blue skin,
+category:ine,
 colored skin,
 green eyes,
 hood,

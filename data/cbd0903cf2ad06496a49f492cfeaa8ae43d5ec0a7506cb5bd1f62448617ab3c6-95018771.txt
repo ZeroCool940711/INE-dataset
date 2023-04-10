@@ -1,5 +1,6 @@
 1girls,
 blue skin,
+category:ine,
 character:sylvanas windrunner,
 creator:betty jiang,
 elf,

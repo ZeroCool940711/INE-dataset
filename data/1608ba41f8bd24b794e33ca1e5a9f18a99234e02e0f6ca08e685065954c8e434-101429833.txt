@@ -2,6 +2,7 @@
 beard,
 boots,
 broken chain,
+category:ine,
 chain,
 chained,
 collar,

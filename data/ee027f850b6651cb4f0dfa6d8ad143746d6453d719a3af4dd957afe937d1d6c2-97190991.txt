@@ -1,6 +1,7 @@
 3girls,
 bed,
 blonde hair,
+category:ine,
 character:rottytops,
 character:shantae (character),
 character:sky (shantae),

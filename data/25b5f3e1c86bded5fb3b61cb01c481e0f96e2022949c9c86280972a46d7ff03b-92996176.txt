@@ -1,6 +1,7 @@
 beach,
 breathing fire,
 campfire,
+category:ine,
 city,
 cloud,
 cloudy sky,

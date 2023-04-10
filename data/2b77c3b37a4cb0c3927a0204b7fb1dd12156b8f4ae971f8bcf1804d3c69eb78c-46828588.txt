@@ -1,6 +1,5 @@
 2girls,
 bush,
-category:ine,
 day,
 forest,
 hat,

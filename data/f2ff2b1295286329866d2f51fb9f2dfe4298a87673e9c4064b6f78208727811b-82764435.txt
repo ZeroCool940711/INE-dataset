@@ -2,6 +2,7 @@
 bdsm,
 bondage,
 booru:sankaku complex,
+category:ine,
 character:higashiyama kobeni,
 christmas,
 christmas gift,

@@ -1,3 +1,4 @@
+category:ine,
 character:yorha no.2 type b,
 mature,
 medium:2d art,

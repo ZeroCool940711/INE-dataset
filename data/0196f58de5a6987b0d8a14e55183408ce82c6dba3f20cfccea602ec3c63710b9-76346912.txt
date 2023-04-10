@@ -2,6 +2,7 @@
 black hair,
 black lips,
 breasts,
+category:ine,
 high heels,
 lipstick,
 long hair,

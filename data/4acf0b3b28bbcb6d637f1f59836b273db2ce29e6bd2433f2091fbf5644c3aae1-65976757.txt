@@ -1,6 +1,7 @@
 1girl,
 ass,
 booru:sankaku channel,
+category:ine,
 character:darth talon,
 character:twi'lek,
 creator:ayya saparniyazova,

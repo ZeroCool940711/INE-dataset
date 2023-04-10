@@ -1,5 +1,6 @@
 anatomy,
 brushes,
+category:ine,
 creator:eldar zakirov,
 expression,
 expressive painting,

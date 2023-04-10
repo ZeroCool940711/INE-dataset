@@ -3,6 +3,7 @@
 blizzard,
 blue,
 card art,
+category:ine,
 character art,
 character design,
 concept art,

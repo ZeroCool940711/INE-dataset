@@ -1,6 +1,7 @@
 1girl,
 arm hair,
 breasts,
+category:ine,
 chest hair,
 colored pencil (medium),
 fishnet bodysuit,

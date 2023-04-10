@@ -1,6 +1,5 @@
 breathing fire,
 burning,
-category:ine,
 creator:jonasdero,
 embers,
 explosion,

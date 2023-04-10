@@ -1,6 +1,7 @@
 1girl,
 black hair,
 breasts,
+category:ine,
 lightning,
 long hair,
 medium breasts,

@@ -1,6 +1,7 @@
 1girl,
 breast focus,
 breasts,
+category:ine,
 character:valentine (skullgirls),
 choker,
 cleavage,

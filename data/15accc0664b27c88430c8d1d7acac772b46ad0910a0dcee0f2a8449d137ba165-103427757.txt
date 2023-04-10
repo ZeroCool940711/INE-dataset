@@ -1,5 +1,6 @@
 1boy,
 1girl,
+category:ine,
 holding,
 holding weapon,
 horns,

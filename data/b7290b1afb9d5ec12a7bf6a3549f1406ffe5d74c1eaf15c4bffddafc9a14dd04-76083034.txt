@@ -2,6 +2,7 @@
 ass,
 breasts,
 brown hair,
+category:ine,
 character:tifa lockhart,
 creator:jul3dnsfw,
 female,

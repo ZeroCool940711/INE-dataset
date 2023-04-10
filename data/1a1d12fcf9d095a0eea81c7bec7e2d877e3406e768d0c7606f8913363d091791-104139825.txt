@@ -1,6 +1,7 @@
 1girl,
 bandaged arm,
 bandages,
+category:ine,
 dagger,
 forest,
 grass,

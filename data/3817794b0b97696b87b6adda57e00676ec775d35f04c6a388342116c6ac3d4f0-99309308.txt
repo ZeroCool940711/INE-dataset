@@ -1,6 +1,7 @@
 1boy,
 bodysuit,
 building,
+category:ine,
 city,
 copyright name,
 cover,

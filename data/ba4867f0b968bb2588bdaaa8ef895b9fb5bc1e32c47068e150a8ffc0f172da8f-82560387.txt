@@ -4,6 +4,7 @@
 blizzard,
 book illustration,
 card art,
+category:ine,
 concept art,
 concept artist,
 creator:aleksa stajsic,

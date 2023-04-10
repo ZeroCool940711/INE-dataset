@@ -1,6 +1,7 @@
 1boy,
 1girl,
 ass,
+category:ine,
 english text,
 hetero,
 monochrome,

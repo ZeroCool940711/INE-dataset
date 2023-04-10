@@ -2,6 +2,7 @@
 ass,
 boots,
 breasts,
+category:ine,
 character:i-no,
 cleavage,
 cropped jacket,
