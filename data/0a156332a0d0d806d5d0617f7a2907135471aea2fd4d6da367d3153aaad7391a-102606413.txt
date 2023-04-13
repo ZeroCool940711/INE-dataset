@@ -2,6 +2,7 @@
 beard,
 black background,
 brown eyes,
+category:ine,
 christmas,
 closed mouth,
 coat,
