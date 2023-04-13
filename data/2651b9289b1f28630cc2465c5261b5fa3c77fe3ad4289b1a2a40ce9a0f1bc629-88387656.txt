@@ -2,6 +2,7 @@
 artist name,
 blue eyes,
 breasts,
+category:ine,
 cleavage,
 full body,
 jewelry,

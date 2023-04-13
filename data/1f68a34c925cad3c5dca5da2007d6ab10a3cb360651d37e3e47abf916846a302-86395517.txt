@@ -7,6 +7,7 @@
 armor,
 beard,
 cape,
+category:ine,
 creator:mam ba,
 facial hair,
 male focus,
