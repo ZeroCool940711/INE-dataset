@@ -1,4 +1,5 @@
 action:open mouth,
+ambiguous gender,
 ambiguous_gender,
 artist:cryptid-creations,
 beady eyes,

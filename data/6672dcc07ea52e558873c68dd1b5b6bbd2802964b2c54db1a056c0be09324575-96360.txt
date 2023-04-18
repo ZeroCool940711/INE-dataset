@@ -3,6 +3,7 @@
 1girls,
 4,
 ai,
+artificial intelligence,
 blue eyes,
 blue hair,
 blue skin,

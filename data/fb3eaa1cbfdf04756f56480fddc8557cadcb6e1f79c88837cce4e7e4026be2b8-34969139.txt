@@ -1,5 +1,6 @@
 ambiguous gender,
 ambiguous_gender,
+appliance,
 artist:cryptid-creations,
 beady eyes,
 beady_eyes,

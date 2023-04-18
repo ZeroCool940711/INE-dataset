@@ -1,4 +1,5 @@
 ambiguous gender,
+appliance,
 bacon,
 black eyes,
 bodypart:black eyes,
