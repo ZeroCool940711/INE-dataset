@@ -1,4 +1,4 @@
-This repository contains the data for the INE dataset. The `data` folder contains a list of images and a `.txt` file next to each image containing the tags for the image with the same filename. The filename is made of two things, a hash for the image and a unique id, the full filename for both the image and txt file would be in a format like `hash-uniqueid.ext`.
+This repository contains the data for a subset of the INE dataset. The `data` folder contains a list of images and a `.txt` file next to each image containing the tags for the image with the same filename and each `.txt` contains at least 20 tags. The filename is made of two things, a hash for the image and a unique id, the full filename for both the image and `.txt` file would be in a format like `hash-uniqueid.ext`.
 
 ### About the Imaginary Network Expanded subreddit:
 
