@@ -1,5 +1,5 @@
-akb0048,
 akb48,
+akb0048,
 animeidols,
 category:ine,
 creator:yessiemaltese,
